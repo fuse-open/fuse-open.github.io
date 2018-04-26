@@ -1,0 +1,18 @@
+title: Fuse-Open
+email: contact@fusetools.com
+description: >-
+  Create better native apps for iOS and Android with a new breed of
+  development tools.
+baseurl: ""
+url: "fuse-open.github.io"
+twitter_username: fusetools
+github_username:  fuse-open
+
+# Build settings
+markdown: kramdown
+
+theme: minima
+header_pages:
+  - about.md
+plugins:
+  - jekyll-feed
