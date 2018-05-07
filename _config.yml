@@ -13,7 +13,7 @@ markdown: kramdown
 
 theme: minima
 header_pages:
-  - about.md
+  - features.md
   - url: /docs/
     title: Docs
 plugins:
