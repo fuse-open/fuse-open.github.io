@@ -14,6 +14,7 @@ markdown: kramdown
 theme: minima
 header_pages:
   - features.md
+  - showcases.md
   - url: /docs/
     title: Docs
 plugins:

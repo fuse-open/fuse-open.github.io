@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {%- if page.screenshots -%}
+    <img src="{{ page.screenshots }}" alt="Criminal Mind">
+  {%- endif -%}
+
+
+  {{ content }}
+
+  <h2>Try it!</h2>
+  {%- if page.android_url and page.ios_url -%}
+  <p>This app is available for both iOS and Android.</p>
+  {%- elsif page.ios_url -%}
+  <p>This app is available for iOS.</p>
+  {%- elsif page.android_url -%}
+  <p>This app is available for Android.</p>
+  {%- endif -%}
+
+<p>
+{%- if page.ios_url -%}
+<a href="{{ page.ios_url }}" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a>
+{%- endif -%}
+
+{%- if page.android_url -%}
+<a href="{{ page.android_url }}"><img src="https://play.google.com/intl/en_us/badges/images/badge_new.png" alt=""></a>
+{%- endif -%}
+</p>
+
+</div>
