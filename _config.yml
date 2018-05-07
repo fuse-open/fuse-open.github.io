@@ -19,5 +19,6 @@ header_pages:
   - showcases.md
   - url: /docs/
     title: Docs
+  - downloads.md
 plugins:
   - jekyll-feed
