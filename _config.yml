@@ -14,5 +14,7 @@ markdown: kramdown
 theme: minima
 header_pages:
   - about.md
+  - url: /docs/
+    title: Docs
 plugins:
   - jekyll-feed
