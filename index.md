@@ -9,7 +9,7 @@ project.
 
 ## What is Fuse?
 
-Fuse is a cross-platform mobile app development plaform, supporting building
+Fuse is a cross-platform mobile app development platform, supporting building
 Android and iOS applications.
 
 ## How do I get started?
