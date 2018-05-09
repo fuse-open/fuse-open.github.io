@@ -23,3 +23,6 @@ header_pages:
 
 exclude:
   - .editorconfig
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.txt
