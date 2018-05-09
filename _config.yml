@@ -20,8 +20,6 @@ header_pages:
   - url: /docs/
     title: Docs
   - downloads.md
-plugins:
-  - jekyll-feed
 
 exclude:
   - .editorconfig
