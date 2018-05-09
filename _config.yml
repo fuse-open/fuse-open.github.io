@@ -22,3 +22,6 @@ header_pages:
   - downloads.md
 plugins:
   - jekyll-feed
+
+exclude:
+  - .editorconfig
