@@ -33,7 +33,7 @@ Once a Fuse project looks and feels right, the difference between prototype and 
 
 ## Open cross-platform tooling
 
-Fuse projects are written in plain-text source code. This lets you use whatever text editors and design tools you prefer, with extra convenience features available if your chosen editor leverages Fuse's open [plugin API](https://fuse-open.github.io/docs/technical-corner/fuse-protocol). Mature plugins offering problem solving, code completion and project management already exist for Sublime Text, Visual Studio Code and Atom.
+Fuse projects are written in plain-text source code. This lets you use whatever text editors and design tools you prefer, with extra convenience features available if your chosen editor leverages Fuse's open [plugin API](https://fuse-open.github.io/docs/technical-corner/fuse-protocol). Mature plugins offering problem solving, code completion and project management already exist for [Sublime Text]({{ site.baseurl }}/docs/basics/installation/sublime-plugin.html), [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=iGN97.fuse-vscode) and [Atom]({{ site.baseurl }}/docs/basics/installation/atom-plugin.html).
 
 ### iOS, Android and .NET/Mono
 
