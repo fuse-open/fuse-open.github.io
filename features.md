@@ -11,7 +11,7 @@ Fuse is a set of tools for creating user experiences that enrich the world and p
 ### UX markup for next-gen look and feel
 
 Build interfaces with UX Markup: A concise, declarative XML-based language for creating
-rich user experiences backed by a world class layout engine and OpenGL-accelerated visuals. UX markup has been designed to be highly expressive, intuitive to learn and very difficult to break.
+rich user experiences backed by a world class layout engine and GPU-accelerated visuals. UX markup has been designed to be highly expressive, intuitive to learn and very difficult to break.
 
 ### Living, dynamic UI
 
