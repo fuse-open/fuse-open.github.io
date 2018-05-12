@@ -29,7 +29,7 @@ Fuse is designed to offer a playful, real-time workflow where the project can be
 
 ### High performance production code
 
-Once a Fuse project looks and feels right, the difference between prototype and final production code could just be a compiler flag away: UX markup compiles to high performance C++ or .net bytecode, meaning designers can take ownership of final look and feel all they way up to release day.
+Once a Fuse project looks and feels right, the difference between prototype and final production code could just be a compiler flag away: UX markup compiles to high performance C++ or .NET bytecode, meaning designers can take ownership of final look and feel all they way up to release day.
 
 ## Open cross-platform tooling
 
