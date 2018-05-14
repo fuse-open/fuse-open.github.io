@@ -3,13 +3,17 @@ layout: home
 title: Fuse
 ---
 
+![Fuse Studio](assets/images/header-bg.png)
+
 Welcome to the new home for the [Fuse](https://fusetools.com) Open Source
 project.
 
 ## What is Fuse?
 
-Fuse is a cross-platform mobile app development platform, supporting building
-Android and iOS applications.
+Fuse is a cross-platform mobile app development tool suite, supporting building
+Android and iOS applications. 
+
+With Fuse you can build native mobile user interfaces using the easy to learn UX Markup language, and use JavaScript to add business logic.
 
 ## How do I get started?
 
