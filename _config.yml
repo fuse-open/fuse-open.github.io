@@ -19,6 +19,7 @@ header_pages:
   - showcases.md
   - url: /docs/
     title: Docs
+  - source.md
   - downloads.md
 
 exclude:
