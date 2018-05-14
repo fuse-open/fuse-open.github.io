@@ -27,3 +27,10 @@ tinker with the internals.
 The installers are pretty straight-forward; download the right installers
 for your operating system (currently supported: Windows and macOS), install
 it, and open Fuse.
+
+
+## How do I join the Fuse community?
+
+You can interact with other fusers on [Slack](https://fusecommunity.slack.com/) or in the [Forums](http://forums.fusetools.com). 
+
+For technical questions, please prefer to use the [community forums](http://forums.fusetools.com). Include as much information as you can about your problem, as well as code to reproduce your issue. This will make it as easy as possible to help, and make your answer searchable for the future. Hundreds of common questions have already been answered. Give the search box a spin before posting :)
