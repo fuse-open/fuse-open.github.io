@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Fuse
 ---
-
-# Fuse
 
 Welcome to the new home for the [Fuse](https://fusetools.com) Open Source
 project.
