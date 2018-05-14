@@ -14,7 +14,7 @@ markdown: kramdown
 theme: minima
 header_pages:
   - features.md
-  - url: https://examples.fusetools.com/
+  - url: /examples/
     title: Examples
   - showcases.md
   - url: /docs/
