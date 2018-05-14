@@ -2,3 +2,22 @@
 ---
 
 @import "minima";
+
+div.showcases ul {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: 10px;
+  grid-row-gap: 20px;
+  margin: 0;
+}
+
+div.showcases ul > li {
+  display: inline-block;
+  grid-column: span 4;
+}
+
+@media screen and (max-width: 600px) {
+  div.showcases ul > li {
+    grid-column: span 6;
+  }
+}

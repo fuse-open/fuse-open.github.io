@@ -8,6 +8,7 @@ build awesome cross-platform native apps. Here's a small selection of apps
 made with Fuse. Want to be featured?
 [Let us know!](https://www.fusetools.com/contact)
 
+<div class="showcases">
 <ul>
 {% for showcase in site.data.showcases %}
 <li>
@@ -18,3 +19,4 @@ made with Fuse. Want to be featured?
 </li>
 {% endfor %}
 </ul>
+</div>
