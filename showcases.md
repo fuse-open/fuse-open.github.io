@@ -6,7 +6,7 @@ permalink: /showcases/
 There are tens of thousands of developers and designers who use Fuse to
 build awesome cross-platform native apps. Here's a small selection of apps
 made with Fuse. Want to be featured?
-[Let us know!](https://www.fusetools.com/contact)
+[Let us know!](mailto:fuse-open@googlegroups.com)
 
 <ul>
 {% for showcase in site.data.showcases %}
