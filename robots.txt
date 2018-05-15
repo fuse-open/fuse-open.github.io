@@ -1,0 +1,3 @@
+---
+---
+Sitemap: {{ "sitemap_index.xml" | absolute_url }}
