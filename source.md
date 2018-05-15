@@ -35,7 +35,7 @@ Fuselibs.
 
 [1]: https://github.com/fuse-open/uno
 [2]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
-[3]: https://github.com/fusetools/fuselibs-public
+[3]: https://github.com/fuse-open/fuselibs
 [4]: https://github.com/fuse-open/fuse-studio
-[5]: https://github.com/fusetools/fuselibs-public/blob/master/README.md#fuse
+[5]: https://github.com/fuse-open/fuselibs/blob/master/README.md#fuse
 [6]: https://github.com/fuse-open/uno/blob/master/Documentation/Configuration.md#standard-library
