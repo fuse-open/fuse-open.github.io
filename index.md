@@ -3,7 +3,7 @@ layout: home
 title: Fuse
 ---
 
-![Fuse Studio](assets/images/header-bg.png)
+![Fuse Studio]({{ site.baseurl }}{% link assets/images/header-bg.png %})
 
 Welcome to the new home for the [Fuse](https://fusetools.com) Open Source
 project.
@@ -18,7 +18,7 @@ With Fuse you can build native mobile user interfaces using the easy to learn UX
 ## How do I get started?
 
 Well, Fuse is available either as an
-[installer from the downloads-page](downloads) for end-user, or
+[installer from the downloads-page]({{ site.baseurl }}{% link downloads.md %}) for end-user, or
 [as source code]({{ site.baseurl }}{% link source.md %}) for those who wants to
 tinker with the internals.
 
