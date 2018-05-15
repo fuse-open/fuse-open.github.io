@@ -28,3 +28,6 @@ exclude:
   - Gemfile.lock
   - LICENSE.txt
   - README.md
+
+plugins:
+  - jekyll-sitemap
