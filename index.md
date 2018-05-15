@@ -19,7 +19,7 @@ With Fuse you can build native mobile user interfaces using the easy to learn UX
 
 Well, Fuse is available either as an
 [installer from the downloads-page](downloads) for end-user, or
-[as source code](source-code) for those who wants to
+[as source code]({{ site.baseurl }}{% link source.md %}) for those who wants to
 tinker with the internals.
 
 ### Using the installer
