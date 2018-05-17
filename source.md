@@ -19,7 +19,7 @@ Here's a short overview:
   The Fuselibs components are intended to be used from **UX**. Fuselibs
   depends on the [Uno compiler][1].
 * **Fuse Studio** (sometimes referred to as just "Fuse"): This is the
-  [WYSWIG editor][4] for UX-based applications. Fuse Studio depends on
+  [WYSIWYG editor][4] for UX-based applications. Fuse Studio depends on
   [Fuselibs][3] and [Uno][1].
 
 These components are written to be as independent of each other as we've
