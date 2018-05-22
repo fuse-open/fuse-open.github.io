@@ -36,3 +36,18 @@ You can interact with other fusers on [Slack](https://fusecommunity.slack.com/) 
 To get an invitation to the Slack community, visit [this link](https://slackcommunity.fusetools.com/).
 
 For technical questions, please prefer to use the [community forums](http://forums.fusetools.com). Include as much information as you can about your problem, as well as code to reproduce your issue. This will make it as easy as possible to help, and make your answer searchable for the future. Hundreds of common questions have already been answered. Give the search box a spin before posting :)
+
+<div class="users">
+<h2>Users</h2>
+<p>Fuse has been used by top companies from all around the world:</p>
+<ul>
+{% for user in site.data.users %}
+
+<li>
+{% include {{ user.id | prepend: 'users/' | append: '.svg' }} %}
+<span>{{ user.name }}</span>
+</li>
+
+{% endfor %}
+</ul>
+</div>

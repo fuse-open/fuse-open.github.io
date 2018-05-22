@@ -21,3 +21,36 @@ div.showcases ul > li {
     grid-column: span 6;
   }
 }
+
+div.users ul {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: 10px;
+  grid-row-gap: 20px;
+  margin: 0;
+}
+
+div.users ul > li {
+  height: 100%;
+  display: inline-block;
+  vertical-align: middle;
+  grid-column: span 2;
+}
+
+div.users ul > li > svg {
+  fill: #888;
+  height: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.users span {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  div.users ul > li {
+    grid-column: span 6;
+  }
+}
