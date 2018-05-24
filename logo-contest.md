@@ -77,7 +77,7 @@ then.
   <tbody>
 {% for logo in site.data.logo-contest %}
     <tr>
-      <td><a href="{{ site.baseurl }}/assets/images/logo-contest/{{ logo.file }}"><img src="{{ site.baseurl }}/assets/images/logo-contest/{{ logo.file }}" alt="Logo by {{ logo.author }}" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/images/logo-contest/{{ logo.file }}"><img src="{{ site.baseurl }}/assets/images/logo-contest/{{ logo.file }}" alt="Logo by {{ logo.author }}" style="max-height: 300px" /></a></td>
       <td><span style="white-space:nowrap"><a href="mailto:{{ logo.email }}">{{ logo.author }}</a></span></td>
     </tr>
 {% endfor %}
