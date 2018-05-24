@@ -14,7 +14,7 @@ group showed great interest in it. This page has all the info you need to
 contribute and submit.
 
 ## Guidelines:
-- Entries should to be visually distinct fron the current ["fat-comma" logo](https://mms.businesswire.com/media/20170124005067/en/565461/2/Fuse_logo_Black.jpg).
+- Entries should to be visually distinct from the current ["fat-comma" logo](https://mms.businesswire.com/media/20170124005067/en/565461/2/Fuse_logo_Black.jpg).
 - It should be possible to create a visually clear icon from the logo, even in
   small resolutions (even 16x16 pixels).
 - The logo must work in square (ex: icons) as well as wide (ex: website) formats.
