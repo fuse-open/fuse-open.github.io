@@ -1,7 +1,7 @@
 ---
 layout: showcase
 title: Deem
-permalink: /showcases/deem
+permalink: /showcases/deem/
 screenshots: /assets/images/showcases/conrad-detailed.png
 ios_url: https://itunes.apple.com/us/app/deem-movies-tv-shows/id1057365760?mt=8
 android_url: https://play.google.com/store/apps/details?id=com.deem

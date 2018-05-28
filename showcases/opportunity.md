@@ -1,7 +1,7 @@
 ---
 layout: showcase
 title: Opportunity
-permalink: /showcases/opportunity
+permalink: /showcases/opportunity/
 screenshots: /assets/images/showcases/opportunity-detailed.png
 ios_url: https://itunes.apple.com/us/app/opportunity-business-opportunities/id1120189533
 android_url: https://play.google.com/store/apps/details?id=com.opprtunity.opprtunityapp
