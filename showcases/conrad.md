@@ -3,7 +3,6 @@ layout: showcase
 title: Conrad Wise
 permalink: /showcases/conrad
 screenshots: /assets/images/showcases/conrad-detailed.png
-ios_url: https://itunes.apple.com/us/app/conrad-wise/id1090322679?ls=1&mt=8
 android_url: https://play.google.com/store/apps/details?id=com.ConradWise
 ---
 Conrad Wise is really smart. He knows a lot about over 5 million topics,
