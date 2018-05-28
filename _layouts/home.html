@@ -3,10 +3,16 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  <section class="header" style="background: #444">
+    <img class="mx-auto d-block mw-100" src="{{ site.baseurl }}{% link assets/images/header-bg.png %}">
+  </section>
 
-  {{ content }}
+  <section class="container py-5">
+    {%- if page.title -%}
+      <h1>{{ page.title }}</h1>
+    {%- endif -%}
 
+    {{ content }}
+
+  </section>
 </div>
