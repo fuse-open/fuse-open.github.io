@@ -3,8 +3,6 @@ layout: home
 title: Fuse
 ---
 
-![Fuse Studio]({{ site.baseurl }}{% link assets/images/header-bg.png %})
-
 Welcome to the new home for the [Fuse](https://fusetools.com) Open Source
 project.
 
