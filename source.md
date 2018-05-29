@@ -2,8 +2,7 @@
 layout: page
 title: Source
 permalink: /source/
-redirect_from:
-  - /source-code/
+redirect_from: /source-code/
 ---
 Building from source code requires some more knowledge about the project,
 as it's split in multiple components. Which component you want to tinker

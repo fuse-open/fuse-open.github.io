@@ -1,7 +1,7 @@
 ---
 layout: showcase
 title: Conrad Wise
-permalink: /showcases/conrad
+permalink: /showcases/conrad/
 screenshots: /assets/images/showcases/conrad-detailed.png
 android_url: https://play.google.com/store/apps/details?id=com.ConradWise
 ---
