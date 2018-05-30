@@ -67,7 +67,7 @@ then.
 ## Submissions
 
 {% if site.data.logo-contest %}
-<table>
+<table class="table table-striped">
   <thead>
     <tr>
       <th>Logo</th>
