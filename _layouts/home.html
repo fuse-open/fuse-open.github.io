@@ -1,18 +1,93 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
 
-<div class="home">
-  <section class="header" style="background: #444">
-    <img class="mx-auto d-block mw-100" alt="" src="{{ site.baseurl }}{% link assets/images/header-bg.png %}">
-  </section>
+<body>
+  <div class="page-content">
+    <div class="home">
+      {% include header.html %}
+      <div class="container">
+        <div class="row">
+          <div class="col-md-5">
+            <h1>Welcome to Fuse Open</h1>
+            <p>An open-source cross-platform mobile app development tool suite, supporting building Android and iOS applications.</p>
+            <p>With Fuse you can build native mobile user interfaces using the easy to learn UX Markup language, and use JavaScript to add business logic.</p>
+            <a href="downloads/"><button type="button" class="btn btn-outline-light">Get Started</button></a>
+            <a href="https://github.com/fuse-open/fuse-studio" target="_blank"><button type="button" class="btn btn-outline-light"><i class="fab fa-github"></i> View Source Code</button></a>
+          </div>
+          <div class="col-md-7 d-flex">
+            <img class="headerImage" alt="Fuse Open" src="{{ site.baseurl }}{% link assets/images/header-bg-2.png %}">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="features">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-7">
+            <img class="img-fluid" alt="Fuse Open Visual" src="{{ site.baseurl }}{% link assets/images/visuals/visual4.png %}">
+          </div>
+          <div class="col-md-5">
+            <h2>Better Apps, Less Code</h2>
+            <p>Fuse is built on a clear separation of concerns. Your logic is written in Javascript and your UI with our highly expressive UX markup language. It feels familiar because it is.</p>
+          </div>
+        </div>
+      </div>
 
-  <section class="container py-5">
-    {%- if page.title -%}
-      <h1>{{ page.title }}</h1>
-    {%- endif -%}
+      <div class="container">
+        <div class="row">
+          <div class="col-md-5">
+            <h2 class="text-right">Better Apps, Less Code</h2>
+            <p class="text-right">Fuse is built on a clear separation of concerns. Your logic is written in Javascript and your UI with our highly expressive UX markup language. It feels familiar because it is.</p>
+          </div>
+          <div class="col-md-7">
+            <img class="img-fluid" alt="Fuse Open Visual" src="{{ site.baseurl }}{% link assets/images/visuals/visual5.png %}">
+          </div>
+        </div>
+      </div>
 
-    {{ content }}
+      <div class="container text-center">
+        <img class="img-fluid" alt="Fuse Open Visual" src="{{ site.baseurl }}{% link assets/images/visuals/visual2.png %}">
+        <br><br>
+        <h2>Compatible with your favorite tools</h2>
+        <p class="pcenter">With Fuse a whole new world of collaboration opens up. Either working together with another developer in the office or showing off your app to a client on the other side of the Atlantic – your always on the same page.
+          <p>
+      </div>
+    </div>
 
-  </section>
-</div>
+    <div class="create">
+      <div class="container-fluid text-center">
+        <img class="img-fluid" alt="Fuse Open Visual" src="{{ site.baseurl }}{% link assets/images/visuals/visual3.png %}">
+        <br><br>
+        <h2>Create Once, Wow everywhere</h2>
+        <p class="pcenter">Some say, "learn once, write anywhere". We say: "write once, deploy everywhere".  Fuse leverages from OpenGL to achieve a blazingly fast cross-platform solution.
+          <p>
+      </div>
+    </div>
+
+    <div class="users">
+      <div class="container text-center">
+        <h2>Trusted by top companies from all around the world</h2>
+        <ul class="companies">
+          {% for user in site.data.users %}
+          <li>
+            {% include {{ user.id | prepend: 'users/' | append: '.svg' }} %}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+    <!-- <section class="container py-5">
+      {%- if page.title -%}
+        <h1>{{ page.title }}</h1>
+      {%- endif -%}
+      {{ content }}
+    </section> -->
+  </div>
+  {% include footer.html %}
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+
+</html>
