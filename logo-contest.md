@@ -33,6 +33,11 @@ contribute and submit.
 
 ## How to enter
 
+<div class="alert alert-warning" role="alert">
+  We're currently past the submission deadline, so no more submissions will be
+  accepted.
+</div>
+
 ### By E-Mail
 
 You can submit your logo simply by e-mailing it to
