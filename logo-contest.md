@@ -31,6 +31,11 @@ contribute and submit.
 - Optional: [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) fonts
   are preferred, as they are easier to rescale.
 
+## Deadline
+
+The deadline is Sunday 1st of July 2018. Please submit your entries before
+then.
+
 ## How to enter
 
 <div class="alert alert-warning" role="alert">
@@ -71,11 +76,6 @@ in the following format:
 You can see an example-submission [here](https://github.com/kusma/fuse-open.github.io/compare/logo-contest...example-submission).
 
 </div>
-
-## Deadline
-
-The deadline is Sunday 1st of July 2018. Please submit your entries before
-then.
 
 ## Submissions
 
