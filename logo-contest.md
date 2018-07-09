@@ -31,12 +31,23 @@ contribute and submit.
 - Optional: [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) fonts
   are preferred, as they are easier to rescale.
 
+## Deadline
+
+The deadline is Sunday 1st of July 2018. Please submit your entries before
+then.
+
 ## How to enter
 
 <div class="alert alert-warning" role="alert">
+  <p>
   We're currently past the submission deadline, so no more submissions will be
   accepted.
+  </p>
+  <a class="btn btn-warning" data-toggle="collapse" href="#howToEnter" role="button" aria-expanded="false" aria-controls="howToEnter">
+      Show details
+  </a>
 </div>
+<div class="collapse" id="howToEnter" markdown="1">
 
 ### By E-Mail
 
@@ -64,10 +75,7 @@ in the following format:
 
 You can see an example-submission [here](https://github.com/kusma/fuse-open.github.io/compare/logo-contest...example-submission).
 
-## Deadline
-
-The deadline is Sunday 1st of July 2018. Please submit your entries before
-then.
+</div>
 
 ## Submissions
 
