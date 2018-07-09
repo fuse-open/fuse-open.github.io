@@ -7,7 +7,6 @@ layout: page
     <img src="{{ page.screenshots }}" alt="Criminal Mind">
   {%- endif -%}
 
-
   {{ content }}
 
   <h2>Try it!</h2>
@@ -19,14 +18,14 @@ layout: page
   <p>This app is available for Android.</p>
   {%- endif -%}
 
-<p>
-{%- if page.ios_url -%}
-<a href="{{ page.ios_url }}" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a>
-{%- endif -%}
+  <p>
+  {%- if page.ios_url -%}
+  <a href="{{ page.ios_url }}" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a>
+  {%- endif -%}
 
-{%- if page.android_url -%}
-<a href="{{ page.android_url }}" style="display:inline-block;overflow:hidden;background:url(https://play.google.com/intl/en_us/badges/images/badge_new.png) no-repeat;width:135px;height:40px;background-size:contain;"></a>
-{%- endif -%}
-</p>
+  {%- if page.android_url -%}
+  <a href="{{ page.android_url }}" style="display:inline-block;overflow:hidden;background:url(https://play.google.com/intl/en_us/badges/images/badge_new.png) no-repeat;width:135px;height:40px;background-size:contain;"></a>
+  {%- endif -%}
+  </p>
 
 </div>

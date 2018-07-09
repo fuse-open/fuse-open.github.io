@@ -4,75 +4,259 @@
 $enable-shadows: true;
 
 @import 'bootstrap';
-@import 'FuseOpenStyle';
 
-html {
-  min-height: 100%;
+// Variables
+$font: 'Lato', sans-serif;
+$gray: #555555;
+$purple: #363882;
+$violet: #7b4fdd;
+$violet2: #b978f5;
+$orange: #efa668;
+
+// General Style
+h1 {
+  color: $purple;
+  font-family: $font;
+  font-size: 40px !important;
+  font-weight: 800;
 }
-
-body {
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
+h2 {
+  color: $purple;
+  font-family: $font;
+  font-size: 40px !important;
+  font-weight: 800;
 }
-
-.page-content {
-  flex: 1;
+a {
+  color: $gray-600;
+  font: $font;
+  text-decoration: none;
 }
-
-footer {
-  position:relative;
-  bottom:0;
-  left:0;
-  right:0;
-  background-color: $light;
-}
-
-footer ul {
-  list-style: none;
-}
-
-footer li svg {
-  margin-right: 0.5rem;
-}
-
-div.showcases div div {
-  max-width: 229px;
-}
-
-div.users ul {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-column-gap: 10px;
-  grid-row-gap: 20px;
-  padding: 0;
-  margin: 0;
-}
-
-div.users ul > li {
-  height: 100%;
-  display: inline-block;
-  vertical-align: middle;
-  grid-column: span 6;
-}
-
-div.users ul > li > svg {
-  fill: #888;
-  height: 100%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 100%;
-}
-
-div.users span {
-  display: none;
-}
-
-@media screen and (min-width: 768px) {
-  div.users ul > li {
-    grid-column: span 2;
+p {
+  color: white;
+  color: $gray;
+  font-family: $font;
+  font-size: 16px;
+  margin-top: 30px;
+  a {
+    color: $purple;
+    font-style: italic;
+    text-decoration: underline;
   }
+}
+hr {
+  background-color: white;
+  margin-bottom: 60px;
+  margin-top: 60px;
+  opacity: .25;
+}
+
+// Header
+.navbar-brand a {
+  text-decoration: none !important;
+  font-style: normal;
+}
+header .nav-item a:link, header .nav-item a:active, header .nav-item a:visited {
+  color: white;
+  font-family: $font;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  opacity: .68;
+  text-decoration: none;
+}
+header .nav-item a:hover {
+  opacity: 1 !important;
+  text-decoration: underline;
+  transition: .28s;
+}
+header .navbar a:link, header .navbar a:active, header .navbar a:visited, header .navbar a:hover {
+  color: #fff !important;
+  font-family: $font;
+  font-size: 18px;
+}
+
+// Home Page
+.home {
+  background: $violet;
+  background: -moz-linear-gradient(left, $violet 0%, $violet2 50%, $violet2 50%, $orange 100%);
+  background: -webkit-linear-gradient(left, $violet 0%, $violet2 50%, $violet2 50%, $orange 100%);
+  background: linear-gradient(to right, $violet 0%, $violet2 50%, $violet2 50%, $orange 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=$violet, endColorstr=$orange, GradientType=1);
+  height: 100vh;
+  margin: auto 0;
+  overflow-x: hidden;
+  width: 100vw;
+  .headerImage {
+    transform: scale(1.12);
+  }
+  .container .row {
+    align-items: center;
+    height: 90vh;
+    justify-content: center;
+  }
+  h1 {
+    color: white;
+    font-family: $font;
+    font-size: 80px !important;
+    font-weight: 800;
+  }
+  .btn {
+    font-family: $font !important;
+    font-weight: 700;
+  }
+  p {
+    color: white;
+  }
+}
+.features {
+  background: $purple;
+  background: -moz-linear-gradient(top, $purple 20%, #7C75D4 50%, $orange 100%);
+  background: -webkit-linear-gradient(top, $purple 20%, #7C75D4 50%,$orange 100%);
+  background: linear-gradient(to bottom, $purple 20%, #7C75D4 50%,$orange 100%);
+  background-color: $purple;
+  color: white;
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=$purple, endColorstr=$orange,GradientType=0 );
+  font: $font;
+  padding: 100px 0px;
+  h2 {
+    color: white;
+    font-family: $font;
+    font-size: 40px !important;
+    font-weight: 800;
+  }
+  .container {
+    margin-bottom: 160px;
+  }
+  .container:last-child {
+    margin-bottom: 0px;
+  }
+  .container .row {
+    align-items: center;
+    justify-content: center;
+  }
+  p {
+    color: white;
+  }
+  .pcenter {
+    margin: auto;
+    margin-top: 30px;
+    max-width: 90vw;
+    width: 500px;
+  }
+}
+.create {
+  font: $font;
+  padding: 100px 0px;
+  p {
+    color: $gray;
+  }
+  h2 {
+    color: $purple;
+    font-family: $font;
+    font-size: 40px !important;
+    font-weight: 800;
+  }
+  .pcenter {
+    margin: auto;
+    margin-top: 30px;
+    max-width: 90vw;
+    width: 500px;
+  }
+}
+.users {
+  font: $font;
+  padding: 100px 0px;
+  p {
+    color: $gray;
+  }
+  background-color: $gray-100;
+  h2 {
+    color: $purple;
+    font-family: $font;
+    font-size: 40px !important;
+    font-weight: 800;
+  }
+  .companies {
+    list-style: none !important;
+    margin-top: 50px 0px;
+    li {
+      display: inline-block;
+      margin: 38px;
+      margin-left: 0;
+      padding-left: 0;
+    }
+  }
+}
+
+// Showcase Page
+.showcases {
+  margin: 50px 0;
+  h2 a {
+    display: block;
+    font-size: 22px;
+    font-style: normal;
+    line-height: 1.2;
+    text-decoration: none;
+  }
+  p {
+    margin: 20px 0 0 0;
+  }
+  div {
+    margin-bottom: 30px;
+  }
+  img:hover {
+    -moz-transform: scale(1.02);
+    -ms-transform: scale(1.02);
+    -o-transform: scale(1.02);
+    -webkit-transform: scale(1.02);
+    transform: scale(1.02);
+    transition-duration: .32s;
+  }
+}
+
+// Default Page
+#defaultHeader {
+  background: $violet;
+  background: -moz-linear-gradient(left, $violet 0%, $violet2 50%, $violet2 50%, $orange 100%);
+  background: -webkit-linear-gradient(left, $violet 0%, $violet2 50%, $violet2 50%, $orange 100%);
+  background: linear-gradient(to right, $violet 0%, $violet2 50%, $violet2 50%, $orange 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=$violet, endColorstr=$orange, GradientType=1);
+}
+.page-content {
+  li a {
+    color: $purple;
+    font-style: italic;
+    text-decoration: underline;
+  }
+}
+
+// Footer
+footer {
+  font: $font;
+  color: white;
+  background-color: $purple !important;
+  padding: 80px 0px;
+  h4 {
+    color: white;
+    font: $font;
+  }
+  ul{
+      list-style: none;
+      margin: 0;
+      padding: 0;
+  }
+  li {
+    color: white;
+  }
+  a, p {
+    color: white;
+    margin: 0;
+  }
+}
+
+// 404
+#errorPage {
+  margin: 300px 0;
 }
 
 [data-toggle="collapse"].collapsed .if-not-collapsed {
