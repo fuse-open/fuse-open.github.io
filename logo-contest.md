@@ -77,6 +77,14 @@ You can see an example-submission [here](https://github.com/kusma/fuse-open.gith
 
 </div>
 
+## Voting
+
+Please click the button below to cast your vote. The link opens in a new window.
+
+Voting be open until Wednesday 1st of August 2018, so make sure you vote before then.
+
+<a class="btn btn-primary" href="https://www.surveymonkey.com/r/5ZY2C25" target="_blank" role="button">Go to voting page</a>
+
 ## Submissions
 
 {% if site.data.logo-contest %}
