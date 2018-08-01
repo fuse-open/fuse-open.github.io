@@ -46,8 +46,8 @@ then.
   <a class="btn btn-warning" data-toggle="collapse" href="#howToEnter" role="button" aria-expanded="false" aria-controls="howToEnter">
       Show details
   </a>
-</div>
-<div class="collapse" id="howToEnter" markdown="1">
+
+<div class="collapse mt-3" id="howToEnter" markdown="1">
 
 ### By E-Mail
 
@@ -75,6 +75,7 @@ in the following format:
 
 You can see an example-submission [here](https://github.com/kusma/fuse-open.github.io/compare/logo-contest...example-submission).
 
+</div>
 </div>
 
 ## Voting
