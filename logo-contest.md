@@ -43,8 +43,9 @@ then.
   We're currently past the submission deadline, so no more submissions will be
   accepted.
   </p>
-  <a class="btn btn-warning" data-toggle="collapse" href="#howToEnter" role="button" aria-expanded="false" aria-controls="howToEnter">
-      Show details
+  <a class="btn btn-warning collapsed" data-toggle="collapse" href="#howToEnter" role="button" aria-expanded="false" aria-controls="howToEnter">
+     <span class="if-collapsed">Show details</span>
+     <span class="if-not-collapsed">Hide details</span>
   </a>
 
 <div class="collapse mt-3" id="howToEnter" markdown="1">
@@ -84,8 +85,9 @@ You can see an example-submission [here](https://github.com/kusma/fuse-open.gith
   <p>
   We're currently past the voting deadline, so no more votes will be accepted.
   </p>
-  <a class="btn btn-warning" data-toggle="collapse" href="#howToVote" role="button" aria-expanded="false" aria-controls="howToVote">
-      Show details
+  <a class="btn btn-warning collapsed" data-toggle="collapse" href="#howToVote" role="button" aria-expanded="false" aria-controls="howToVote">
+     <span class="if-collapsed">Show details</span>
+     <span class="if-not-collapsed">Hide details</span>
   </a>
 
 <div class="collapse mt-3" id="howToVote" markdown="1">
