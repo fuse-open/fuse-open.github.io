@@ -29,15 +29,19 @@
           </div>
           <div class="col-md-5">
             <h2>Better Apps, Less Code</h2>
-            <p>Fuse is built on a clear separation of concerns. Your logic is written in Javascript and your UI with our highly expressive UX markup language. It feels familiar because it is.</p>
+            <p>
+              Build interfaces with UX Markup: A concise, declarative XML-based language for creating rich user experiences backed by a world class layout engine and GPU-accelerated visuals. UX markup has been designed to be highly expressive, intuitive to learn and very difficult to break.
+            </p>
           </div>
         </div>
       </div>
       <div class="container">
         <div class="row">
           <div class="col-md-5 order-sm-2 order-md-1">
-            <h2 class="text-right">Better Apps, Less Code</h2>
-            <p class="text-right">Fuse is built on a clear separation of concerns. Your logic is written in Javascript and your UI with our highly expressive UX markup language. It feels familiar because it is.</p>
+            <h2 class="text-right">Rapid iteration <br>with live reload</h2>
+            <p class="text-right">
+              Fuse is designed to offer a playful, real-time workflow where the project can be modified as it is running. Using a local zero-config development server, any changes committed to UX, script or assets causes near instant updates in the running application.
+            </p>
           </div>
           <div class="col-md-7 order-sm-1 order-md-2">
             <img class="img-fluid" alt="Fuse Open Visual" src="{{ site.baseurl }}{% link assets/images/visuals/visual5.png %}">
@@ -48,17 +52,32 @@
         <img class="img-fluid" alt="Fuse Open Visual" src="{{ site.baseurl }}{% link assets/images/visuals/visual2.png %}">
         <br><br>
         <h2>Compatible with your favorite tools</h2>
-        <p class="pcenter">With Fuse a whole new world of collaboration opens up. Either working together with another developer in the office or showing off your app to a client on the other side of the Atlantic – your always on the same page.
-          <p>
+        <p class="pcenter">
+          With Fuse a whole new world of collaboration opens up. Either working together with another developer in the office or showing off your app to a client on the other side of the Atlantic – your always on the same page.
+        </p>
+      </div>
+    </div>
+    <div class="moreFeatures">
+      <div class="container-fluid text-center">
+        <h2>But wait... there is a lot more</h2>
+        <div class="row">
+          {% for feature in site.data.features %}
+          <div class="feature col-lg-4 col-md-6 col-xs-12">
+            <span class="featureIcon {{ feature.icon }}"></span>
+            <h3>{{ feature.title }}</h3>
+            <p>{{ feature.description }}</p>
+          </div>
+          {% endfor %}
+        </div>
       </div>
     </div>
     <div class="create">
       <div class="container-fluid text-center">
         <img class="img-fluid" alt="Fuse Open Visual" src="{{ site.baseurl }}{% link assets/images/visuals/visual3.png %}">
-        <br><br>
         <h2>Create Once, Wow everywhere</h2>
-        <p class="pcenter">Some say, "learn once, write anywhere". We say: "write once, deploy everywhere".  Fuse leverages from OpenGL to achieve a blazingly fast cross-platform solution.
-          <p>
+        <p class="pcenter">
+          Some say, "learn once, write anywhere". We say: "write once, deploy everywhere". Fuse leverages from OpenGL to achieve a blazingly fast cross-platform solution.
+        </p>
       </div>
     </div>
     <div class="users">
@@ -73,12 +92,6 @@
         </ul>
       </div>
     </div>
-    <!-- <section class="container py-5">
-      {%- if page.title -%}
-        <h1>{{ page.title }}</h1>
-      {%- endif -%}
-      {{ content }}
-    </section> -->
   </div>
   {% include footer.html %}
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>

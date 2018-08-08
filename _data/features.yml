@@ -1,0 +1,18 @@
+- icon: fas fa-terminal
+  title: Living, dynamic UI
+  description: With UX markup, motion is a first-class citizen and nearly every property is animatable. Using simple expressions you can quickly transition from a static layout into wiring its properties together to form intricate responsive animations.
+- icon: fab fa-js
+  title: Modern Javascript
+  description: In Fuse, client-side business logic is written in simple JavaScript. With Apple JavaScriptCore or Google V8 on a separate thread, script execution rarely impacts UI performance. If you’re familiar with the words module.exports you’re pretty much good to go.
+- icon: fas fa-fighter-jet
+  title: High performance production code
+  description: The difference between prototype and final production code could just be a compiler flag away. UX markup compiles to high performance C++ or .NET bytecode.
+- icon: fas fa-mobile-alt
+  title: iOS, Android and .NET
+  description: With a shared codebase in UX Markup and JavaScript applications can be deployed to both iOS and Android. Further native platform features can be accessed by adding Objective-C, Swift, C# or Java code directly to your project.
+- icon: fas fa-bug
+  title: Native platform debugging
+  description: For Android and iOS, Fuse projects compile to Android Studio and XCode projects that can be debugged and extended any way you wish, and play nice with the native debugging and profiling features.
+- icon: fas fa-object-group
+  title: Assets and design tools
+  description: In Fuse, design and development should become one integrated process. Assets such as fonts, images, videos and sound can be created and updated from any popular design tool and will live-reload just like any source code file.
