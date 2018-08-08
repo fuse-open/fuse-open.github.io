@@ -1,12 +1,12 @@
 # Fuse Open
 
-This is the source-code to the [Fuse Open website](https://fuse-open.github.io),
+This is the source-code to the [Fuse Open website](https://fuseopen.com),
 which is made using [Jekyll](https://jekyllrb.com).
 
 # Reporting issues
 
-If you have issues for [the documentation](https://fuse-open.github.io/docs) or
-[the examples](https://fuse-open.github.io/examples), please file those
+If you have issues for [the documentation](https://fuseopen.com/docs) or
+[the examples](https://fuseopen.com/examples), please file those
 [in the docs repo](https://github.com/fuse-open/docs/issues) or
 [the examples repo](https://github.com/fuse-open/examples/issues), respectively.
 
