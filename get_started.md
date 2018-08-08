@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Source
-permalink: /source/
+title: Get Started
+permalink: /get-started/
 redirect_from: /source-code/
 ---
 Building from source code requires some more knowledge about the project,
