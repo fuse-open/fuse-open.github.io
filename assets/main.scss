@@ -13,6 +13,12 @@ $violet: #9846EF;
 $violet2: #b978f5;
 $orange: #efa668;
 
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
 // General Style
 h1 {
   color: $purple;
@@ -276,6 +282,7 @@ footer {
   color: white;
   background-color: $purple !important;
   padding: 80px 0px;
+  flex: 1;
   h4 {
     color: white;
     font: $font;
