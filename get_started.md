@@ -40,3 +40,9 @@ Fuselibs.
 [4]: https://github.com/fuse-open/fuse-studio
 [5]: https://github.com/fuse-open/fuselibs/blob/master/README.md#fuse
 [6]: https://github.com/fuse-open/uno/blob/master/Documentation/Configuration.md#standard-library
+
+# Download Fuse Studio
+
+You can download the latest installer from <a href="https://github.com/fuse-open/fuse-studio/releases" target="_blank">here</a>.
+
+For Fuse 1.8 and older releases, please see <a href="https://github.com/fusetools/fuse-releases/releases" target="_blank">here</a>.
