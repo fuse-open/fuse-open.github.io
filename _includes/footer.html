@@ -1,16 +1,18 @@
 <footer>
   <div class="container text-muted pt-3">
     <div class="row">
-      <div class="col-md">
-        <span>Fuse Open</span>
+      <div class="col-md-3">
+        <a href="{{ "/" | relative_url }}"><img width="160px" src="{{ site.baseurl }}/assets/white-logo.png" /></a>
+      </div>
+      <div class="col-md-5">
         <ul>
-          <li><i class="fas fa-at"></i><a href="mailto:fuse-open@googlegroups.com">fuse-open@googlegroups.com</a></li>
-          <li><i class="fab fa-github"></i><a href="https://github.com/fuse-open">fuse-open</a></li>
-          <li><i class="fab fa-twitter"></i><a href="https://twitter.com/fuseopen">@fuseopen</a></li>
+          <li><i class="fab fa-slack"></i><a target="_blank" href="https://slackcommunity.fusetools.com/"> Slack</a></li>
+          <li><i class="fab fa-twitter"></i><a target="_blank" href="https://twitter.com/fuseopen"> @fuseopen</a></li>
+          <li><i class="fab fa-github"></i><a target="_blank" href="https://github.com/fuse-open"> fuse-open</a></li>
+          <li><i class="fas fa-envelope"></i><a target="_blank" href="mailto:fuse-open@googlegroups.com"> fuse-open@googlegroups.com</a></li>
         </ul>
       </div>
-      <div class="col-md">
-        <p><i class="fas fa-edit mr-2"></i><a href="https://github.com/fuse-open/fuse-open.github.io/blob/master/{{ page.path }}">Edit this page on Github</a></p>
+      <div class="col-md-4">
         <p>{{ site.description | escape }}</p>
       </div>
     </div>
