@@ -1,7 +1,7 @@
 ---
 layout: showcase
 title: Tasty
-permalink: /showcases/tasty
+permalink: /showcases/tasty/
 screenshots: /assets/images/showcases/tasty-detailed.png
 android_url: https://play.google.com/store/apps/details?id=net.tastyapp.tasty&hl=en
 ---

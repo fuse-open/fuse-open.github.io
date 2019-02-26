@@ -1,7 +1,7 @@
 ---
 layout: showcase
 title: Tesla CTRL
-permalink: /showcases/teslactrl
+permalink: /showcases/teslactrl/
 screenshots: /assets/images/showcases/teslactrl-detailed.png
 ios_url: https://itunes.apple.com/no/app/teslactrls/id1120560798?mt=8
 ---

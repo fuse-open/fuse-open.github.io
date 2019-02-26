@@ -1,7 +1,7 @@
 ---
 layout: showcase
 title: Criminal Mind
-permalink: /showcases/criminalmind
+permalink: /showcases/criminalmind/
 screenshots: /assets/images/showcases/criminalmind-detailed.png
 ios_url: https://itunes.apple.com/us/app/mente-criminal-living-a-book/id924788775
 android_url: https://play.google.com/store/apps/details?id=com.livingabook.mentecriminal
