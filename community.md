@@ -15,7 +15,7 @@ redirect_from: /community/forums/
 
 <a name="articles"></a>
 ### Articles
-
+- <a href="https://medium.com/@andrewq/hello-world-eaa996c594b7" target="_blank">Fuse Open Camera and Share Component Updates 2019<a/>
 - <a href="https://medium.com/@fusetools/a-sane-way-of-mixing-languages-in-fuse-660b351c2f96" target="_blank">A sane way of mixing languages in Fuse<a/>
 - <a href="https://blog.prototypr.io/do-we-need-better-prototyping-or-simpler-coding-269109426313#.7c7y1vgx7" target="_blank">Do we need better prototyping or simpler coding?<a/>
 - <a href="https://medium.com/@fusetools/fuse-foreign-speech-c4d888b505ec" target="_blank">Fuse Foreign Speech<a/>
@@ -36,10 +36,9 @@ redirect_from: /community/forums/
 - <a href="https://github.com/fuse-compound/Fuse.Firebase" target="_blank"> Firebase: Firebase bindings for Fuse.</a>
 - <a href="https://github.com/sanderdan/FormulaFuse" target="_blank"> FormulaFuse: Formula 1 Fuse application.</a>
 - <a href="https://github.com/mokko-labs/fuse-input-validation" target="_blank"> Fuse Input Validation: Reusable and highly functional input validation methods in Fuse components </a>
-- <a href="https://github.com/bolav/fusepm" target="_blank"> Fuse PM: A Fusetools package manager.</a>
 - <a href="https://github.com/franzsilva/FusePokeDex" target="_blank"> Fuse Pokedex: A Pokedex created using Fuse.</a>
 - <a href="https://github.com/LuisRodriguezLD/Fuse-RequestReview" target="_blank"> Fuse Review: Get reviews from your users without making them leave the app.</a>
-- <a href="https://github.com/fusetools/fuse-samples" target="_blank"> Fuse Samples: A collection of smaller examples using the various features of Fuse and </a>
+- <a href="https://github.com/fusetools/fuse-samples" target="_blank"> Fuse Samples: A collection of smaller examples using the various features of Fuse. </a>
 - <a href="https://github.com/LuisRodriguezLD/Fuse-TapticFeedback" target="_blank"> Fuse Taptic-Feedback: Get access to the iPhone 7's taptic engine.</a>
 - <a href="https://github.com/glenfordwilliams/fuse.QrScanner" target="_blank"> fuse.QrScanner: A small library for scanning QrCode.</a>
 - <a href="https://github.com/zean00/fuse-qreader">QR code reader  by <strong>zean00</strong></a>
@@ -54,7 +53,7 @@ redirect_from: /community/forums/
 - <a href="https://bitbucket.org/uzeidurs/fuse-snake/" target="_blank"> Snake: A proof-of-concept experimental game of snake made with Fusetools.</a>
 - <a href="https://github.com/Syncano/syncano-fuse-example" target="_blank"> Syncano: Simple example of integration Syncano with Fuse.</a>
 - <a href="https://github.com/englekk/Fusetools_UnityAdsSample" target="_blank"> UnityAds Sample: Simple example of integration UnityAds with Fuse.</a>
-- <a href="https://github.com/ckarmy/fuse-signature-savePanel" target="_blank"> Share Draw/Signature and Custom Panel: Share Signature/Draw and Custom panel for </a>
+- <a href="https://github.com/ckarmy/fuse-signature-savePanel" target="_blank"> Share Signature/Draw and Custom panel for Fuse. </a>
 - <a href="https://github.com/aToO57/AdMob">Use AdMob with Fuse projects (Android) by <strong>aToO57</strong></a>
 - <a href="https://github.com/Appstax/appstax-fuse">Official AppStax SDK for Fuse by <strong>Appstax</strong></a>
 - <a href="https://github.com/bolav/fuse-cachingimagesource">Caches downloaded images on disk by <strong>bolav</strong></a>
