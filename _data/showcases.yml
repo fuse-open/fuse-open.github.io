@@ -7,12 +7,15 @@
 - id: teslactrl
   title: Tesla CTRL
   synopsis: Better control of your Tesla
+- id: cityu
+  title: CityU Mobile
+  synopsis: Official portal app of City University of Hong Kong
 - id: conrad
   title: Conrad Wise
   synopsis: A chat bot that knows everything
-- id: deem
-  title: Deem
-  synopsis: Your ultimate guide to movies and TV shows
+- id: wali
+  title: Wali
+  synopsis: Browse any movie or tv show out there and arrange them on a list to watch them later.
 - id: klickle
   title: Klickle
   synopsis: Your Town. Your Way.

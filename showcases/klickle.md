@@ -1,7 +1,7 @@
 ---
 layout: showcase
 title: Klickle
-permalink: /showcases/klickle
+permalink: /showcases/klickle/
 screenshots: /assets/images/showcases/klickle-detailed.png
 ios_url: https://itunes.apple.com/us/app/klickle/id873427610?mt=8
 ---

@@ -1,7 +1,7 @@
 ---
 layout: showcase
 title: Wonder
-permalink: /showcases/wonder
+permalink: /showcases/wonder/
 screenshots: /assets/images/showcases/wonder-detailed.png
 ios_url: https://itunes.apple.com/se/app/wonder-creativity-training/id1090880488?l=en&mt=8
 ---

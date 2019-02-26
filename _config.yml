@@ -5,22 +5,20 @@ description: >-
   development tools.
 baseurl: ""
 url: "https://fuse-open.github.io"
-twitter_username: fusetools
+twitter_username: fuseopen
 github_username:  fuse-open
+logo: "assets/logo.png"
 
 # Build settings
 markdown: kramdown
 
-theme: minima
 header_pages:
-  - features.md
+  - get_started.md
+  - url: /docs/
+    title: Documentation
   - url: /examples/
     title: Examples
   - showcases.md
-  - url: /docs/
-    title: Docs
-  - source.md
-  - downloads.md
 
 exclude:
   - .editorconfig
@@ -32,3 +30,4 @@ exclude:
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-seo-tag
