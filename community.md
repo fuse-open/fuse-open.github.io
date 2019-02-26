@@ -46,7 +46,7 @@ redirect_from: /community/forums/
 - <a href="https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase" target="_blank"> Fuse Tags with Firebase: Simple Tags app. Adds and retrieves tags from Firebase.</a>
 - <a href="http://tmn.github.io/FuseBus/" target="_blank"> FuseBus: A simple Fuse application for testing and funtimes.</a>
 - <a href="https://github.com/elsassph/fusetools-haxe" target="_blank"> Haxe: Haxe compiler for Fuse tools.</a>
-- <a href="https://github.com/fuse-open/hikr" target="_blank"> Hikr: An example app case to accompany [Fuse's end-to-end tutorial</a>
+- <a href="https://github.com/fuse-open/hikr" target="_blank"> Hikr: an example app case to accompany Fuse’s end-to-end Fuse app tutorial.</a>
 - <a href="https://bitbucket.org/uzeidurs/fuse-infinite-scroll " target="_blank"> Infinite Scroll: An example implementation of "infinite scroll" for use with Fuse Tools version 0.26 and above.</a>
 - <a href="https://github.com/AlexGustafsson/fuse-motion" target="_blank"> Motion: iOS accelerometer, gyroscope, magnetometer readings and more for Fuse.</a>
 - <a href="https://www.npmjs.com/package/slush-xfuse" target="_blank"> slush-xfuse: Fuse slush generator with Gulp, Rollup and Babel integration.</a>
