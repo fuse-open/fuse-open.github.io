@@ -35,7 +35,7 @@ redirect_from: /community/forums/
 - <a href="https://github.com/jveres/D500px" target="_blank"> 500px Gallery Demo: Nifty gallery demo app using 500px API.</a>
 - <a href="https://github.com/fuse-compound/Fuse.Firebase" target="_blank"> Firebase: Firebase bindings for Fuse.</a>
 - <a href="https://github.com/sanderdan/FormulaFuse" target="_blank"> FormulaFuse: Formula 1 Fuse application.</a>
-- <a href="https://github.com/mokko-labs/fuse-input-validation" target="_blank"> Fuse Input Validation: Reusable and highly functional input validation methods in </a>fuse-input-validationFuse components
+- <a href="https://github.com/mokko-labs/fuse-input-validation" target="_blank"> Fuse Input Validation: Reusable and highly functional input validation methods in Fuse components </a>
 - <a href="https://github.com/bolav/fusepm" target="_blank"> Fuse PM: A Fusetools package manager.</a>
 - <a href="https://github.com/franzsilva/FusePokeDex" target="_blank"> Fuse Pokedex: A Pokedex created using Fuse.</a>
 - <a href="https://github.com/LuisRodriguezLD/Fuse-RequestReview" target="_blank"> Fuse Review: Get reviews from your users without making them leave the app.</a>
@@ -44,11 +44,11 @@ redirect_from: /community/forums/
 - <a href="https://github.com/glenfordwilliams/fuse.QrScanner" target="_blank"> fuse.QrScanner: A small library for scanning QrCode.</a>
 - <a href="https://github.com/zean00/fuse-qreader">QR code reader  by <strong>zean00</strong></a>
 - <a href="https://github.com/bolav/fuse-barcodescanner">Bar code scanner by <strong>bolav</strong></a>
-- <a href="https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase" target="_blank"> Fuse Tags with Firebase: Simple Tags app. Adds and retrieves tags from </a>Fuse-Tags-with-FirebaseFirebase.
+- <a href="https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase" target="_blank"> Fuse Tags with Firebase: Simple Tags app. Adds and retrieves tags from Firebase.</a>
 - <a href="http://tmn.github.io/FuseBus/" target="_blank"> FuseBus: A simple Fuse application for testing and funtimes.</a>
 - <a href="https://github.com/elsassph/fusetools-haxe" target="_blank"> Haxe: Haxe compiler for Fuse tools.</a>
 - <a href="https://github.com/fusetools/hikrdocs/" target="_blank"> Hikr: An example app case to accompany [Fuse's end-to-end tutorial</a>tutorial/tutorial).
-- <a href="https://bitbucket.org/uzeidurs/fuse-infinite-scroll " target="_blank"> Infinite Scroll: An example implementation of "infinite scroll" for use with </a>Tools version 0.26 and above.
+- <a href="https://bitbucket.org/uzeidurs/fuse-infinite-scroll " target="_blank"> Infinite Scroll: An example implementation of "infinite scroll" for use with Fuse Tools version 0.26 and above.</a>
 - <a href="https://github.com/AlexGustafsson/fuse-motion" target="_blank"> Motion: iOS accelerometer, gyroscope, magnetometer readings and more for Fuse.</a>
 - <a href="https://www.npmjs.com/package/slush-xfuse" target="_blank"> slush-xfuse: Fuse slush generator with Gulp, Rollup and Babel integration.</a>
 - <a href="https://bitbucket.org/uzeidurs/fuse-snake/" target="_blank"> Snake: A proof-of-concept experimental game of snake made with Fusetools.</a>
@@ -102,5 +102,5 @@ redirect_from: /community/forums/
 - <a href="https://github.com/kristianhasselknippe/fuse-mode" target="_blank">Emacs: Emacs plugin for Fuse.</a>
 - <a href="https://github.com/fusetools/Fuse.SublimePlugin" target="_blank">Sublime: Sublime Text 3 plugin for Fuse.</a>
 - <a href="https://github.com/Hazealign/vscode-fuse" target="_blank">Visual Studio Code: Fuse Helper for Visual Studio Code.</a>
-- <a href="https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax" target="_blank">Fuse Language: Syntax Highlighting for \*.uno and \*.ux </a>vscode-fuse-syntaxfiles
+- <a href="https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax" target="_blank">Fuse Language: Syntax Highlighting for *.uno and *.ux files in VS Code.</a>
 - <a href="https://github.com/bstrr/vscode-fuse-log" target="_blank">Fuse-Log: Get Fuse log messages into Visual Studio Code's output panel.</a>
