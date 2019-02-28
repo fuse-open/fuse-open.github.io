@@ -13,6 +13,19 @@
           <a class=" effect nav-link{% if page.url == path.url %} active{% endif %}" href="{{ path.url | relative_url }}">{{ path.title | escape }}</a> {%- endif -%}
         </li>
         {% endfor %}
+        <li>
+          <div class="btn-group">
+            <button type="button" class="btn btn-outline-light dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Community
+            </button>
+            <div class="dropdown-menu dropdown-menu-right">
+              <a href="/community#collaboration"><button class="dropdown-item" type="button">Collaboration</button></a>
+              <a href="/community#articles"><button class="dropdown-item" type="button">Articles</button></a>
+              <a href="/community#packages"><button class="dropdown-item" type="button">Packages/Samples</button></a>
+              <a href="/community#plugins"><button class="dropdown-item" type="button">Plugins</button></a>
+            </div>
+          </div>
+        </li>
       </ul>
     </div>
     {% endif %}
