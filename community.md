@@ -15,7 +15,11 @@ redirect_from: /community/forums/
 
 <a name="articles"></a>
 ### Articles
+<<<<<<< HEAD
 
+=======
+- <a href="https://medium.com/@andrewq/hello-world-eaa996c594b7" target="_blank">Fuse Open Camera and Share Component Updates 2019<a/>
+>>>>>>> 9d837de6eb99cd512f1991e60ada528140e58cb1
 - <a href="https://medium.com/@fusetools/a-sane-way-of-mixing-languages-in-fuse-660b351c2f96" target="_blank">A sane way of mixing languages in Fuse<a/>
 - <a href="https://blog.prototypr.io/do-we-need-better-prototyping-or-simpler-coding-269109426313#.7c7y1vgx7" target="_blank">Do we need better prototyping or simpler coding?<a/>
 - <a href="https://medium.com/@fusetools/fuse-foreign-speech-c4d888b505ec" target="_blank">Fuse Foreign Speech<a/>
@@ -35,26 +39,45 @@ redirect_from: /community/forums/
 - <a href="https://github.com/jveres/D500px" target="_blank"> 500px Gallery Demo: Nifty gallery demo app using 500px API.</a>
 - <a href="https://github.com/fuse-compound/Fuse.Firebase" target="_blank"> Firebase: Firebase bindings for Fuse.</a>
 - <a href="https://github.com/sanderdan/FormulaFuse" target="_blank"> FormulaFuse: Formula 1 Fuse application.</a>
+<<<<<<< HEAD
 - <a href="https://github.com/mokko-labs/fuse-input-validation" target="_blank"> Fuse Input Validation: Reusable and highly functional input validation methods in </a>fuse-input-validationFuse components
 - <a href="https://github.com/bolav/fusepm" target="_blank"> Fuse PM: A Fusetools package manager.</a>
 - <a href="https://github.com/franzsilva/FusePokeDex" target="_blank"> Fuse Pokedex: A Pokedex created using Fuse.</a>
 - <a href="https://github.com/LuisRodriguezLD/Fuse-RequestReview" target="_blank"> Fuse Review: Get reviews from your users without making them leave the app.</a>
 - <a href="https://github.com/fusetools/fuse-samples" target="_blank"> Fuse Samples: A collection of smaller examples using the various features of Fuse and </a>
+=======
+- <a href="https://github.com/mokko-labs/fuse-input-validation" target="_blank"> Fuse Input Validation: Reusable and highly functional input validation methods in Fuse components </a>
+- <a href="https://github.com/franzsilva/FusePokeDex" target="_blank"> Fuse Pokedex: A Pokedex created using Fuse.</a>
+- <a href="https://github.com/LuisRodriguezLD/Fuse-RequestReview" target="_blank"> Fuse Review: Get reviews from your users without making them leave the app.</a>
+- <a href="https://github.com/fusetools/fuse-samples" target="_blank"> Fuse Samples: A collection of smaller examples using the various features of Fuse. </a>
+>>>>>>> 9d837de6eb99cd512f1991e60ada528140e58cb1
 - <a href="https://github.com/LuisRodriguezLD/Fuse-TapticFeedback" target="_blank"> Fuse Taptic-Feedback: Get access to the iPhone 7's taptic engine.</a>
 - <a href="https://github.com/glenfordwilliams/fuse.QrScanner" target="_blank"> fuse.QrScanner: A small library for scanning QrCode.</a>
 - <a href="https://github.com/zean00/fuse-qreader">QR code reader  by <strong>zean00</strong></a>
 - <a href="https://github.com/bolav/fuse-barcodescanner">Bar code scanner by <strong>bolav</strong></a>
+<<<<<<< HEAD
 - <a href="https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase" target="_blank"> Fuse Tags with Firebase: Simple Tags app. Adds and retrieves tags from </a>Fuse-Tags-with-FirebaseFirebase.
 - <a href="http://tmn.github.io/FuseBus/" target="_blank"> FuseBus: A simple Fuse application for testing and funtimes.</a>
 - <a href="https://github.com/elsassph/fusetools-haxe" target="_blank"> Haxe: Haxe compiler for Fuse tools.</a>
 - <a href="https://github.com/fusetools/hikrdocs/" target="_blank"> Hikr: An example app case to accompany [Fuse's end-to-end tutorial</a>tutorial/tutorial).
 - <a href="https://bitbucket.org/uzeidurs/fuse-infinite-scroll " target="_blank"> Infinite Scroll: An example implementation of "infinite scroll" for use with </a>Tools version 0.26 and above.
+=======
+- <a href="https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase" target="_blank"> Fuse Tags with Firebase: Simple Tags app. Adds and retrieves tags from Firebase.</a>
+- <a href="http://tmn.github.io/FuseBus/" target="_blank"> FuseBus: A simple Fuse application for testing and funtimes.</a>
+- <a href="https://github.com/elsassph/fusetools-haxe" target="_blank"> Haxe: Haxe compiler for Fuse tools.</a>
+- <a href="https://github.com/fuse-open/hikr" target="_blank"> Hikr: an example app case to accompany Fuse’s end-to-end Fuse app tutorial.</a>
+- <a href="https://bitbucket.org/uzeidurs/fuse-infinite-scroll " target="_blank"> Infinite Scroll: An example implementation of "infinite scroll" for use with Fuse Tools version 0.26 and above.</a>
+>>>>>>> 9d837de6eb99cd512f1991e60ada528140e58cb1
 - <a href="https://github.com/AlexGustafsson/fuse-motion" target="_blank"> Motion: iOS accelerometer, gyroscope, magnetometer readings and more for Fuse.</a>
 - <a href="https://www.npmjs.com/package/slush-xfuse" target="_blank"> slush-xfuse: Fuse slush generator with Gulp, Rollup and Babel integration.</a>
 - <a href="https://bitbucket.org/uzeidurs/fuse-snake/" target="_blank"> Snake: A proof-of-concept experimental game of snake made with Fusetools.</a>
 - <a href="https://github.com/Syncano/syncano-fuse-example" target="_blank"> Syncano: Simple example of integration Syncano with Fuse.</a>
 - <a href="https://github.com/englekk/Fusetools_UnityAdsSample" target="_blank"> UnityAds Sample: Simple example of integration UnityAds with Fuse.</a>
+<<<<<<< HEAD
 - <a href="https://github.com/ckarmy/fuse-signature-savePanel" target="_blank"> Share Draw/Signature and Custom Panel: Share Signature/Draw and Custom panel for </a>
+=======
+- <a href="https://github.com/ckarmy/fuse-signature-savePanel" target="_blank"> Share Signature/Draw and Custom panel for Fuse. </a>
+>>>>>>> 9d837de6eb99cd512f1991e60ada528140e58cb1
 - <a href="https://github.com/aToO57/AdMob">Use AdMob with Fuse projects (Android) by <strong>aToO57</strong></a>
 - <a href="https://github.com/Appstax/appstax-fuse">Official AppStax SDK for Fuse by <strong>Appstax</strong></a>
 - <a href="https://github.com/bolav/fuse-cachingimagesource">Caches downloaded images on disk by <strong>bolav</strong></a>
@@ -102,5 +125,9 @@ redirect_from: /community/forums/
 - <a href="https://github.com/kristianhasselknippe/fuse-mode" target="_blank">Emacs: Emacs plugin for Fuse.</a>
 - <a href="https://github.com/fusetools/Fuse.SublimePlugin" target="_blank">Sublime: Sublime Text 3 plugin for Fuse.</a>
 - <a href="https://github.com/Hazealign/vscode-fuse" target="_blank">Visual Studio Code: Fuse Helper for Visual Studio Code.</a>
+<<<<<<< HEAD
 - <a href="https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax" target="_blank">Fuse Language: Syntax Highlighting for \*.uno and \*.ux </a>vscode-fuse-syntaxfiles
+=======
+- <a href="https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax" target="_blank">Fuse Language: Syntax Highlighting for *.uno and *.ux files in VS Code.</a>
+>>>>>>> 9d837de6eb99cd512f1991e60ada528140e58cb1
 - <a href="https://github.com/bstrr/vscode-fuse-log" target="_blank">Fuse-Log: Get Fuse log messages into Visual Studio Code's output panel.</a>
