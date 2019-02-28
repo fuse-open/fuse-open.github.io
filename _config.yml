@@ -16,9 +16,6 @@ header_pages:
   - get_started.md
   - url: /docs/
     title: Documentation
-<<<<<<< HEAD
-  - forums.md
-=======
   - url: /examples/
     title: Examples
   - showcases.md
