@@ -4,6 +4,7 @@ title: Tesla CTRL
 permalink: /showcases/teslactrl/
 screenshots: /assets/images/showcases/teslactrl-detailed.png
 ios_url: https://itunes.apple.com/no/app/teslactrls/id1120560798?mt=8
+synopsis: Better control of your Tesla
 ---
 This app will give you better control of your Tesla, with the key feature
 that you can schedule all your cars functions to run automatically at a

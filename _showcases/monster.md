@@ -5,6 +5,7 @@ permalink: /showcases/monster/
 screenshots: /assets/images/showcases/monster-detailed.png
 ios_url: https://itunes.apple.com/mx/app/the-monster-and-the-cat/id726779970?l=en&mt=8
 android_url: https://play.google.com/store/apps/details?id=com.livingabook.monsterandcat
+synopsis: An interactive storybook with multiple endings
 ---
 **"The Monster and the Cat"** is an interactive book with multiple endings.
 "Living a Book" is a new approach of interactive books where the reader’s

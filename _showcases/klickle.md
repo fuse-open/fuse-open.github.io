@@ -4,6 +4,7 @@ title: Klickle
 permalink: /showcases/klickle/
 screenshots: /assets/images/showcases/klickle-detailed.png
 ios_url: https://itunes.apple.com/us/app/klickle/id873427610?mt=8
+synopsis: Your Town. Your Way.
 ---
 With Klickle you’ll find stuff that’s happening now from the local
 businesses you choose to follow – while we eliminate the unwanted

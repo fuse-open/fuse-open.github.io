@@ -21,6 +21,10 @@ header_pages:
     title: Examples
   - showcases.md
 
+collections:
+  showcases:
+    output: true
+
 exclude:
   - .editorconfig
   - Gemfile

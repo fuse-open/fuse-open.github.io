@@ -5,6 +5,7 @@ permalink: /showcases/opportunity/
 screenshots: /assets/images/showcases/opportunity-detailed.png
 ios_url: https://itunes.apple.com/us/app/opportunity-business-opportunities/id1120189533
 android_url: https://play.google.com/store/apps/details?id=com.opprtunity.opprtunityapp
+synopsis: A lead generation tool built inside of a business network
 ---
 Opportunity is a lead generation tool built inside of a business network -
 Opportunity matches you with professionals who can bring you sales, advance
