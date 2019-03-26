@@ -25,6 +25,9 @@ header_pages:
 collections:
   showcases:
     output: true
+  examples:
+    output: true
+    permalink: /examples/:name/index.html
 
 exclude:
   - .editorconfig

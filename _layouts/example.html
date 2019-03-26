@@ -1,0 +1,12 @@
+---
+layout: page
+---
+<div class="example">
+  <div id="preview" class="w-100 bg-secondary p-3 mb-4">
+    {% if page.preview-image %}
+    <img src="{{ site.baseurl }}/assets/images/examples/{{ page.preview-image }}" alt="{{ page.title }}">
+    {% endif %}
+  </div>
+
+  {{ content }}
+</div>
