@@ -10,9 +10,11 @@ Want to be featured? [Let us know!](mailto:fuse-open@googlegroups.com)
   {% for showcase in site.showcases %}
   <div class="col-12 col-sm-6 col-md-4 col-lg-3">
     <div>
-      <h2><a href="{{ showcase.id }}">{{ showcase.title }}</a></h2>
-      <a href="{{ showcase.id }}"><img class="mw-100" src="{{ site.baseurl }}/assets/images/{{ showcase.id }}.png" alt="{{ showcase.title }}" /></a>
-      <p>{{ showcase.synopsis }}<br><a href="{{ showcase.id }}">Read more</a></p>
+      <h2><a href="{{ showcase.url }}">{{ showcase.title }}</a></h2>
+      <a href="{{ showcase.url }}">
+        <img class="mw-100" src="{{ site.baseurl }}/assets/images/{{ showcase.id }}.png" alt="{{ showcase.title }}" />
+      </a>
+      <p>{{ showcase.synopsis }}<br><a href="{{ showcase.url }}">Read more</a></p>
     </div>
   </div>
   {% endfor %}
