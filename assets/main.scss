@@ -274,3 +274,10 @@ footer {
 [data-toggle="collapse"]:not(.collapsed) .if-collapsed {
   display: none;
 }
+
+button:enabled > .fa-spin {
+  display: none;
+}
+button:disabled > .fa-download {
+  display: none;
+}
