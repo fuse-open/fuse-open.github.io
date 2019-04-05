@@ -69,7 +69,7 @@ permalink: /integrations/
 - <a href="https://github.com/bkono/listenup">Example of Snowboy hotword detection in Fuse by <strong>bkono</strong></a>
 - <a href="https://github.com/IsaacSomething/fuse-tools-icon-sets">A collection of files with icon code mappings to quickly add icons to your fuse tools project by <strong>IsaacSomething</strong></a>
 
-<a name="plugins"></a>
+
 ### Plugins
 - <a href="https://github.com/Hazealign/fuse-alfred-workflow" target="_blank">Alfred Workflow: Integrate Fuse on Alfred.</a>
 - <a href="https://github.com/fusetools/Fuse.AtomPlugin" target="_blank">Atom: Atom Editor plugin for Fuse.</a>
