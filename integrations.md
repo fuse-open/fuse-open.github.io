@@ -2,13 +2,8 @@
 layout: page
 title: Integrations
 permalink: /integrations/
-redirect_from:
-  - /source-code/
-  - /downloads/
 ---
 
-
-<a name="packages"></a>
 ### Packages/Samples
 - <a href="https://github.com/rbtech/fuse-lottie" target="_blank"> Lottie animations: integration of Lottie animations on Fuse</a>
 - <a href="https://github.com/naosk8/fuse-homography-image-uploader" target="_blank"> Homography image transformation: A sample project for Fuse, an image uploader supporting Homography image transformation.</a>
