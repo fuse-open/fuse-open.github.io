@@ -215,20 +215,12 @@ header .navbar a:link, header .navbar a:active, header .navbar a:visited, header
     margin-bottom: 30px;
   }
   img {
-    -moz-transform: scale(1);
-    -ms-transform: scale(1);
-    -o-transform: scale(1);
-    -webkit-transform: scale(1);
     transform: scale(1);
     transition-duration: .32s;
     animation-fill-mode: forwards;
     -webkit-animation-fill-mode: forwards;
   }
   img:hover {
-    -moz-transform: scale(1.03);
-    -ms-transform: scale(1.03);
-    -o-transform: scale(1.03);
-    -webkit-transform: scale(1.03);
     transform: scale(1.03);
     transition-duration: .32s;
     animation-fill-mode: forwards;
