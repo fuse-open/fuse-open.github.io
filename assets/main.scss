@@ -83,8 +83,6 @@ header .navbar a:link, header .navbar a:active, header .navbar a:visited, header
 // Home Page
 .home {
   background: $violet;
-  background: -moz-linear-gradient(left, $violet 0%, $violet2 50%, $violet2 50%, $orange 100%);
-  background: -webkit-linear-gradient(left, $violet 0%, $violet2 50%, $violet2 50%, $orange 100%);
   background: linear-gradient(to right, $violet 0%, $violet2 50%, $violet2 50%, $orange 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=$violet, endColorstr=$orange, GradientType=1);
   height: 100vh;
@@ -112,12 +110,9 @@ header .navbar a:link, header .navbar a:active, header .navbar a:visited, header
 }
 .features {
   background: $purple;
-  background: -moz-linear-gradient(top, $purple 20%, #7C75D4 50%, $orange 100%);
-  background: -webkit-linear-gradient(top, $purple 20%, #7C75D4 50%,$orange 100%);
   background: linear-gradient(to bottom, $purple 20%, #7C75D4 50%,$orange 100%);
   background-color: $purple;
   color: white;
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=$purple, endColorstr=$orange,GradientType=0 );
   padding: 100px 0px;
   h2 {
     color: white;
@@ -247,8 +242,6 @@ header .navbar a:link, header .navbar a:active, header .navbar a:visited, header
 // Default Page
 #defaultHeader {
   background: $violet;
-  background: -moz-linear-gradient(left, $violet 0%, $violet2 50%, $violet2 50%, $orange 100%);
-  background: -webkit-linear-gradient(left, $violet 0%, $violet2 50%, $violet2 50%, $orange 100%);
   background: linear-gradient(to right, $violet 0%, $violet2 50%, $violet2 50%, $orange 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=$violet, endColorstr=$orange, GradientType=1);
 }
