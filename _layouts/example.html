@@ -3,7 +3,11 @@ layout: page
 ---
 <div class="example">
   <div id="preview" class="w-100 bg-secondary p-3 mb-4">
-    {% if page.preview-image %}
+    {% if page.preview-video %}
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ page.preview-video }}?autoplay=1&mute=1&loop=1&rel=0&controls=0&showinfo=0&autohide=1" frameborder="0" allow="autoplay"></iframe>
+    </div>
+    {% elsif page.preview-image %}
     <img src="{{ site.baseurl }}/assets/images/examples/{{ page.preview-image }}" alt="{{ page.title }}">
     {% endif %}
   </div>

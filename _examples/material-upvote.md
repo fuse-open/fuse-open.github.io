@@ -16,6 +16,7 @@ uxConcepts:
 - State
 - Change
 preview-image: material-upvote.png
+preview-video: JYp0a9HOG_E
 ---
 We discovered a blog post by [MaterialUp](http://www.materialup.com/) with a nice list of UX designs and felt like taking on the [challenge of turning it into code](https://stories.uplabs.io/can-you-code-this-design-concept-efe0132b9744). Here is an implementation of their material up-vote design.
 

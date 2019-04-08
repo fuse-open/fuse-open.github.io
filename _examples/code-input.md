@@ -27,6 +27,7 @@ jsConcepts:
 - Event handler
 - data-binding
 preview-image: code-input.png
+preview-video: 7wqYydvhl1I
 ---
 This example shows how we can create a segmented code input control with neat animations between focused and non-focused states.
 Design inspiration was taken from the clean and attractive [Code input field concept](https://dribbble.com/shots/2163930-Code-input-field-concept) by Samuel Kantala.

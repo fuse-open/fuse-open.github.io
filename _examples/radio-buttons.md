@@ -12,6 +12,7 @@ uxConcepts:
 - ToggleSelection
 - Scale
 preview-image: radio-buttons.png
+preview-video: n7ix4k0-htY
 ---
 This example illustrates how you can build a custom radio button control using `Selection` and `Selectable`.
 When `Selected`, each button sets the value of an `Attractor`, which in turn changes the background color. The `Attractor` is used to make a smooth transition between colors.

@@ -17,6 +17,7 @@ uxConcepts:
 - WhileActive
 - NavigationMotion
 preview-image: dynamic-tab-bar.png
+preview-video: eeBq26xDwW0
 ---
 In this example we are using `WhileActive` and `ActivatingAnimation` to create a dynamic tab bar. The design was inspired by [this awesome concept](https://dribbble.com/shots/2702517-Review-App-Concept) by [Sergii Ganushchak](https://dribbble.com/ne_toy).
 Icons are from Google's excellent [Material Icons](https://design.google.com/icons/) and the font is [Roboto](https://github.com/google/roboto). The placeholder graphics is from Sergii's [original Form prototype](https://dribbble.com/shots/2702517-Review-App-Concept/attachments/546093).

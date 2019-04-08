@@ -19,6 +19,7 @@ jsConcepts:
 - Observable
 - Event handler
 preview-image: loading-button.png
+preview-video: Csji41P-kbw
 ---
 This example shows how to make a neat loading button with different success and error states.
 

@@ -13,6 +13,7 @@ uxConcepts:
 - VerticalBoxCenter
 - LayoutAnimation
 preview-image: cube-transition.png
+preview-video: kjWPnwTgEsQ
 ---
 # Cube transition
 

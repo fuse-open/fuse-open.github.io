@@ -17,6 +17,7 @@ uxConcepts:
 jsConcepts:
 - Observable
 preview-image: cards-menu.png
+preview-video: Ll4uc3wADow
 ---
 In this example we have implemented [an awesome menu design](https://dribbble.com/shots/2389505-Cards-Menu-Concept) by [Gal Shir](https://dribbble.com/galshir)!
 

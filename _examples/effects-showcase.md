@@ -13,6 +13,7 @@ uxConcepts:
 - Mask
 - Shadow
 preview-image: effects-showcase.png
+preview-video: fNP-lp3u9HQ
 ---
 # Effects
 

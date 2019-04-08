@@ -26,6 +26,7 @@ jsConcepts:
 - Observable
 - data-binding
 preview-image: custom-slider.png
+preview-video: MzYashr0F9Y
 ---
 In this example, we're creating a custom slider component, inspired by this beautifully designed [Fluid Slider](https://dribbble.com/shots/3868232-ios-Fluid-Slider-ui-ux) by [Virgil Pana](https://dribbble.com/virgilpana).
 

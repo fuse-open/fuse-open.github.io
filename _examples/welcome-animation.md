@@ -14,6 +14,7 @@ uxConcepts:
 - Easing
 - Change
 preview-image: welcome-animation.png
+preview-video: Czq1XazzY6A
 ---
 In this example we use the `Timeline` to make an animated introduction screen inspired by [Stephen Pearsons](https://dribbble.com/scr33nag3r) [animation](https://dribbble.com/shots/2372039-Tour-Animation).
 

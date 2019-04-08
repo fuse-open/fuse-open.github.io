@@ -11,6 +11,7 @@ uxConcepts:
 - PageIndicator
 - Circle
 preview-image: wheel-navigation.png
+preview-video: 45miDxWPRx0
 ---
 This time we've implemented an awesome [interactive infographic concept](https://dribbble.com/shots/3266096--16-Dashboard-Navigation) by [Yaroslav Zubko](https://twitter.com/ZubkoYaroslav).
 

@@ -14,6 +14,7 @@ uxConcepts:
 - Change
 - BringToFront
 preview-image: material-transition.png
+preview-video: eSrBJonDPdg
 ---
 This example shows how you can create a neat material design card animation.
 It is inspired by [this awesome piece](https://dribbble.com/shots/1893589-Material-design-card-animation) by [Ivan Bjelajac](https://dribbble.com/ibjelajac).

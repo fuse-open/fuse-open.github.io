@@ -12,6 +12,7 @@ uxConcepts:
 - Scaling
 - UserEvent
 preview-image: login-transition.png
+preview-video: n5Rh9BcBgkw
 ---
 We saw this cool login transition from [Anton Aheichanka](https://dribbble.com/madebyanton) using the free to-do UI kit from [InVision](http://www.invisionapp.com/do) and wanted to recreate it in Fuse.
 

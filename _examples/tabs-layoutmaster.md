@@ -16,6 +16,7 @@ uxConcepts:
 - StatusBarBackground
 - BottomBarBackground
 preview-image: tabs-layoutmaster.png
+preview-video: HaVCa7AK73o
 ---
 This example shows how one can achieve a tabview with an animated indicator showing which tab is selected. The example achieves this by changing the `LayoutMaster` of an element along with a `LayoutAnimation` trigger, which allows one to animate elements between different layouts.
 

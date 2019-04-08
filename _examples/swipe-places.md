@@ -21,6 +21,7 @@ jsConcepts:
 - setTimeout
 - data-binding
 preview-image: swipe-places.png
+preview-video: AFWihtX7hQI
 ---
 In this example we will implement the card swipe control made famous by Tinder. Swipe to the right if you've visited a city, to the left if you have not.
 

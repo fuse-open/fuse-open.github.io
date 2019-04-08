@@ -12,6 +12,7 @@ uxConcepts:
 - Move
 - Keyframe
 preview-image: animated-menu-icon.png
+preview-video: TmLk0nm4itI
 ---
 This examples shows how to implement an animated menu icon. It was inspired by [this cool piece](https://dribbble.com/shots/2281614-Menu-Button-2) by Joby.
 

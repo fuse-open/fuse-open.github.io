@@ -19,6 +19,7 @@ jsConcepts:
 - Observable
 - Timer
 preview-image: stopwatch.png
+preview-video: vFx5XI9bfEY
 ---
 In this example we create a stopwatch native-module which we use to create a cool stopwatch app.
 

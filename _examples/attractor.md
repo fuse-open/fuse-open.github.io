@@ -9,6 +9,7 @@ uxConcepts:
 - Attractor
 - Clicked
 preview-image: attractor.png
+preview-video: DfRjuAVqq1w
 ---
 It is easy to quickly set up interpolation between values using an `Attractor`. Here is a simple example:
 

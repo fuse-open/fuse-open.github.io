@@ -17,6 +17,7 @@ uxConcepts:
 - Scale
 - Tapped
 preview-image: rotating-sidebar.png
+preview-video: x2L0ApHkQho
 ---
 In this example we're making a fancy rotating sidebar, as shown below:
 

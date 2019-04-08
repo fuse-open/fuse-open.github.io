@@ -12,6 +12,7 @@ uxConcepts:
 - PageIndicator
 - ux:Template
 preview-image: page-control.png
+preview-video: NVSirdNghsw
 ---
 An example showing how to create a slide show using a `PageControl`.
 

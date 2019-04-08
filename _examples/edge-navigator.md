@@ -6,6 +6,7 @@ synopsis: This is a simple example of how to use the EdgeNavigator to let the us
 published: false
 tags:
 - Sidebar
+preview-video: HTEkDS8ytlo
 ---
 This is a simple example of how to use the `EdgeNavigator` to let the user swipe content in from the edges of a panel (typically the edges of the device). You can also check out how `EdgeNavigator` can be used to create a side menu in a more complete [social media screen examle](social-media-screen.md).
 

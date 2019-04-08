@@ -19,6 +19,7 @@ jsConcepts:
 - Observable.add
 - Event handler
 preview-image: pages-using-js.png
+preview-video: MtQDyL8AjWk
 ---
 This example uses `Router` and `Navigator` to create a list of pages that can be navigated to with corresponding buttons.
 

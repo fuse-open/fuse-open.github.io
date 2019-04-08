@@ -16,6 +16,7 @@ uxConcepts:
 - RelativeNode
 - Move.RelativeTo
 preview-image: scrolling-animation.png
+preview-video: 2BibqtXQpaA
 ---
 This example shows how you can use a `ScrollView` together with `ScrollingAnimation` to create advanced visual effects to accompany scrolling. In this example, we have an article with a nice header that animates when you scroll through the article.
 

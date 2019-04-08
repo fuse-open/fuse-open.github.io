@@ -17,6 +17,7 @@ jsConcepts:
 - Observable.map
 - data-model
 preview-image: circle-menu.png
+preview-video: H49F4hhuV84
 ---
 Here is another awesome design we found by [Anton Aheichanka](https://dribbble.com/madebyanton) that we felt obligated to implement with Fuse. We used the free UI kit from [InVision](http://www.invisionapp.com/do) for the assets.
 

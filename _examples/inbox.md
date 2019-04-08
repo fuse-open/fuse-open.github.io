@@ -18,6 +18,7 @@ jsConcepts:
 - Observable
 - Event handler
 preview-image: inbox.png
+preview-video: uymV8C6Q-1U
 ---
 A quite common use case is to use swipe gestures to perform actions on items in a list. This example uses `SwipeGesture` to create an inbox with items that can either be postponed or removed by swiping it to the left or right.
 

@@ -13,6 +13,7 @@ uxConcepts:
 - SwipingAnimation
 - NavigationMotion
 preview-image: swipe-gesture-reveal.png
+preview-video: _kAROVUsXkM
 ---
 In this example we are implementing a really cool [card navigation](https://dribbble.com/shots/2493845-ToFind-Transition-Test) with a "swipe to reveal details" action. Design by [Leo Leung](https://dribbble.com/leoleung).
 

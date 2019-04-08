@@ -13,6 +13,7 @@ uxConcepts:
 - Keyframe
 - SwipingAnimation
 preview-image: day-night-switch.png
+preview-video: YLPhARygYjU
 ---
 In this example we'll implement a custom switch control by using the `ToggleControl`, with separate forward and backward animations. The design was inspired by [this awesome piece](https://dribbble.com/shots/1907553-Day-Night-Toggle-Button) by [Ramakrishna V](https://dribbble.com/RamakrishnaUX) (which was later animated by [Tsuriel](https://dribbble.com/Tsuriel)).
 

@@ -20,6 +20,7 @@ jsConcepts:
 - Observable.remove
 - Event handler
 preview-image: gallery.png
+preview-video: 4IQNnzDP9SU
 ---
 It is not uncommon that you want to select multiple items and delete them from a collection. In this example we will see how that can be done in a gallery-like application, similar to what you might find in your mobile operating system.
 

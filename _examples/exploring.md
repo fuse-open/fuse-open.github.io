@@ -12,6 +12,7 @@ uxConcepts:
 - PageIndicator
 - Selection
 preview-image: exploring.png
+preview-video: n9BV2D_GfjI
 ---
 In this example we implement [this](https://dribbble.com/shots/2311820-Exploring) really cool list item to detail view animation by [Dejan Markovic](https://dribbble.com/DejanMarkovic)
 

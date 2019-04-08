@@ -10,6 +10,7 @@ uxConcepts:
 - ScrollingAnimation
 - Each.Count
 preview-image: ticket-scroll.png
+preview-video: 5yWSQfdvWE0
 ---
 This example shows another use of `ScrollingAnimation` to make a collapsing and expanding top section for a scrolling list. The example is inspired by [this cool pice](https://dribbble.com/shots/2367675-Ticket-scroll) by [Cam Macbeth](https://dribbble.com/cammacbeth). Icons are taken from Google's excellent [Material Icons pack](https://design.google.com/icons/).
 

@@ -14,6 +14,7 @@ uxConcepts:
 - Resource-binding
 - FileImageSource
 preview-image: reveal-actions.png
+preview-video: oHjK2dDbqsY
 ---
 In this example we implement a cool reveal animation from the [Stripe Dashboard](http://medium.stfi.re/swlh/exploring-the-product-design-of-the-stripe-dashboard-for-iphone-e54e14f3d87e?ref=hackingui&sf=lroyzg#.bgjivpv68)
 

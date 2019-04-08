@@ -13,6 +13,7 @@ uxConcepts:
 - InteractiveTransform
 - UX Expressions
 preview-image: pan-zoom-rotate.png
+preview-video: vTIOiTO5t68
 ---
 In this example we use `PanGesture`, `ZoomGesture` and `RotateGesture` to allow direct manipulation of an element's 2D transformation.
 All of these gestures require an `InteractiveTransform`, which is passed through the `Target` parameter.

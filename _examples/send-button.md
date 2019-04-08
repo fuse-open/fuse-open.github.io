@@ -19,6 +19,7 @@ uxConcepts:
 jsConcepts:
 - Observable
 preview-image: send-button.png
+preview-video: WjywvOw30pk
 ---
 In this example, we are making a button with a fancy loading animation.
 
@@ -265,4 +266,3 @@ Below is an example of how you can use the button in your own app.
 
 <SendButton Clicked="{clicked}" IsLoading="{isLoading}" />
 ```
-

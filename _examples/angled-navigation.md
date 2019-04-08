@@ -13,6 +13,7 @@ uxConcepts:
 jsConcepts:
 - Observable
 preview-image: angled-navigation.png
+preview-video: y51jg0upEjU
 ---
 In this example we are using `Entering-` and `ExitingAnimation` together with `Keyframe` in order to implement this [awesome transition animation](https://dribbble.com/shots/2575761-Webshop-UI-UX-experiments) by [Remco Bakker](https://dribbble.com/remcobakker)
 

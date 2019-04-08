@@ -18,6 +18,7 @@ uxConcepts:
 - WhileTrue
 - ClipToBounds
 preview-image: custom-switch.png
+preview-video: Ic-KHzlCy1A
 ---
 Fuse has a flexible and powerful system to help you style your own and existing controls. Let's look at how it works by styling a `ToggleControl` control inspired by [this](https://dribbble.com/shots/1749645-Contact-Sync) example by [Ramotion](http://www.ramotion.com).
 

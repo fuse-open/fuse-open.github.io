@@ -15,6 +15,7 @@ uxConcepts:
 jsConcepts:
 - Busy
 preview-image: loading-indicator.png
+preview-video: T8E_I8kD6Hc
 ---
 This example shows how we can create an animated loading indicator. It includes a simulated background operation in JavaScript that triggers the visibility of our animation in the custom `MyLoadingIndicator` class. In this case we make use of `Busy` and `WhileBusy` triggers.
 

@@ -13,6 +13,7 @@ uxConcepts:
 - Move.RelativeTo
 - LayoutMaster
 preview-image: signup-concept.png
+preview-video: PkAiHfMpy70
 ---
 In this example we decided to take on another [UpLabs challenge](https://stories.uplabs.com/can-you-code-this-ui-concept-vol-2-9c9763269640#.abop8q8x6) by implementing this very cool [signup flow animation](http://www.materialup.com/posts/material-signup-interaction). You will learn how to animate layout between completely different app states.
 

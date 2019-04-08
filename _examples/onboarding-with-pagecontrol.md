@@ -15,6 +15,7 @@ uxConcepts:
 - Change
 - Keyframe
 preview-image: onboarding-with-pagecontrol.png
+preview-video: c6JnoFbCz9s
 ---
 In this example we show how you can use the `PageControl` in combination with a `Timeline` to create an animated on-boarding experience. We got inspired by [this design](https://dribbble.com/shots/2629732-Snaplee-App-Interaction) by [Sumit Chakraborty](https://dribbble.com/bearduo).
 

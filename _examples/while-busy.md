@@ -16,6 +16,7 @@ jsConcepts:
 - Observable
 - Observable.map
 preview-image: while-busy.png
+preview-video: -7wTMSY_czs
 ---
 This example shows how we can use the `WhileBusy` trigger to display meaningful visual feedback while a large image is loading. We use the `WhileBusy` trigger on our thumbnail images to display a gray rectangle until the thumbnails arrive. We use the same technique to animate between low and high resolution images to get quicker feedback while loading.
 

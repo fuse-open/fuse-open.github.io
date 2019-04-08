@@ -12,6 +12,7 @@ uxConcepts:
 - SwipeGesture
 - SwipingAnimation
 preview-image: e-commerce-ui.png
+preview-video: LeiXcE1un4M
 ---
 This example, based on the awesome [Ecommerce-UX](https://dribbble.com/shots/2249964-Ecommerce-UX) design by [Levani Ambokadze](https://dribbble.com/Amboka), shows the use of `SwipeGesture` and `SwipeNavigate`, as well as how you can achieve 3D transformations using `Rotate` and `Viewport`.
 

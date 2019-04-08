@@ -10,6 +10,7 @@ uxConcepts:
 jsConcepts:
 - Observable
 preview-image: empty-state.png
+preview-video: NoFZCyslbec
 ---
 In this example we are using `WhileEmpty` to show a temporary message while there is no content to display.
 

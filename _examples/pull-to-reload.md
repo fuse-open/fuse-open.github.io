@@ -20,6 +20,7 @@ jsConcepts:
 - Observable
 - Event handler
 preview-image: pull-to-reload.png
+preview-video: M6CL4bukt6s
 ---
 In this example we will implement a pull to reload design inspired by [this cool piece](https://dribbble.com/shots/1974767-gear-powered-pull-to-refresh-animation) by Michael B. Mayers.
 

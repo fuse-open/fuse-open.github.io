@@ -11,6 +11,7 @@ uxConcepts:
 - EdgeNavigator
 - ActivatingAnimation
 preview-image: material-drawer.png
+preview-video: i3KLZtqPGnk
 ---
 This example illustrates how you can use `EdgeNavigator` to make a navigation drawer that can be swiped in from the left, or opened using a button.
 
