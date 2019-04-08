@@ -12,6 +12,10 @@ logo: "assets/logo.png"
 # Build settings
 markdown: kramdown
 
+kramdown:
+  syntax_highlighter_opts:
+    default_lang: xml
+
 header_pages:
   - get_started.md
   - url: /docs/
