@@ -9,7 +9,7 @@ permalink: /examples/
     <h4><a href="{{ example.url }}">{{ example.title }}</a></h4>
 
     {% if example.preview-image %}
-    <div class="bg-secondary p-3">
+    <div class="bg-secondary p-3 mb-3">
       <a href="{{ example.url }}">
         <img class="mw-100" src="{{ site.baseurl }}/assets/images/examples/{{ example.preview-image }}" alt="{{ example.title }}" />
       </a>
