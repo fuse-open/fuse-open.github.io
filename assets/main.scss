@@ -65,7 +65,7 @@ header .nav-item a:link, header .nav-item a:active, header .nav-item a:visited {
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  opacity: .88;
+  opacity: .65;
   text-decoration: none;
 }
 header .nav-item a:hover {
@@ -76,6 +76,10 @@ header .nav-item a:hover {
 header .navbar a:link, header .navbar a:active, header .navbar a:visited, header .navbar a:hover {
   color: #fff !important;
   font-size: 15px;
+}
+.navbar-dark .navbar-nav .nav-link.active {
+  text-decoration: underline;
+  opacity: 1;
 }
 
 // Home Page
