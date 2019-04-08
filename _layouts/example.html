@@ -16,7 +16,7 @@ layout: page
   <script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.1/dist/FileSaver.min.js" integrity="sha256-Sf4Tr1mzejErqH+d3jzEfBiRJAVygvjfwUbgYn92yOU=" crossorigin="anonymous"></script>
   <script src="{% link assets/download-example.js %}"></script>
   {% assign example = page.id | split: "/" | last %}
-  <button id="download" class="btn btn-primary" onclick="downloadExample(this, '{{ example }}')">
+  <button id="download" class="btn btn-primary mb-3" onclick="downloadExample(this, '{{ example }}')">
     <i class="fas fa-download"></i>
     <i class="fas fa-sync-alt fa-spin"></i>
     <span>Download</span>
