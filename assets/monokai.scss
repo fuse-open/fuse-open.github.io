@@ -1,7 +1,12 @@
 ---
 ---
+$purple: #2d1546;
+$violet: #9846EF;
+$violet2: #b978f5;
+$orange: #efa668;
+
 .highlight .hll { background-color: #49483e }
-.highlight  { background: #2d1546; color: #f8f8f2 }
+.highlight  { background: darken($purple, 5); color: #f8f8f2 }
 .highlight .c { color: #75715e } /* Comment */
 .highlight .err { color: #960050; background-color: #1e0010 } /* Error */
 .highlight .k { color: #66d9ef } /* Keyword */
@@ -41,7 +46,7 @@
 .highlight .nn { color: #f8f8f2 } /* Name.Namespace */
 .highlight .nx { color: #2ae264 } /* Name.Other */
 .highlight .py { color: #f8f8f2 } /* Name.Property */
-.highlight .nt { color: #A049FC } /* Name.Tag */
+.highlight .nt { color: lighten($violet2, 5) } /* Name.Tag */
 .highlight .nv { color: #f8f8f2 } /* Name.Variable */
 .highlight .ow { color: #A049FC } /* Operator.Word */
 .highlight .w { color: #f8f8f2 } /* Text.Whitespace */

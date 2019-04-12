@@ -295,6 +295,6 @@ button:disabled > .fa-download {
 }
 
 code {
-  color: $orange;
+  color: darken($orange, 30);
   white-space: pre-wrap
 }
