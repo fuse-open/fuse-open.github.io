@@ -3,8 +3,6 @@
 
 $enable-shadows: true;
 
-@import 'bootstrap';
-
 // Variables
 $font: 'Lato', sans-serif;
 $gray: #555555;
@@ -12,6 +10,14 @@ $purple: #363882;
 $violet: #9846EF;
 $violet2: #b978f5;
 $orange: #efa668;
+
+$primary: $purple;
+$secondary: $violet;
+
+$font-family-sans-serif: $font;
+$font-family-base:       $font;
+
+@import 'bootstrap';
 
 body {
   display: flex;
@@ -22,28 +28,21 @@ body {
 // General Style
 h1 {
   color: $purple;
-  font-family: $font;
   font-size: 40px !important;
   font-weight: 800;
 }
 h2 {
   color: $purple;
-  font-family: $font;
   font-size: 40px !important;
   font-weight: 800;
 }
-h3 {
-  font-family: $font;
-}
 a {
   color: $gray-600;
-  font: $font;
   text-decoration: none;
 }
 p {
   color: white;
   color: $gray;
-  font-family: $font;
   font-size: 16px;
   a {
     color: $purple;
@@ -57,9 +56,6 @@ hr {
   margin-top: 60px;
   opacity: .25;
 }
-li {
-  font-family: $font;
-}
 
 // Header
 .navbar-brand a {
@@ -68,7 +64,6 @@ li {
 }
 header .nav-item a:link, header .nav-item a:active, header .nav-item a:visited {
   color: white;
-  font-family: $font;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
@@ -82,15 +77,12 @@ header .nav-item a:hover {
 }
 header .navbar a:link, header .navbar a:active, header .navbar a:visited, header .navbar a:hover {
   color: #fff !important;
-  font-family: $font;
   font-size: 15px;
 }
 
 // Home Page
 .home {
   background: $violet;
-  background: -moz-linear-gradient(left, $violet 0%, $violet2 50%, $violet2 50%, $orange 100%);
-  background: -webkit-linear-gradient(left, $violet 0%, $violet2 50%, $violet2 50%, $orange 100%);
   background: linear-gradient(to right, $violet 0%, $violet2 50%, $violet2 50%, $orange 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=$violet, endColorstr=$orange, GradientType=1);
   height: 100vh;
@@ -106,12 +98,10 @@ header .navbar a:link, header .navbar a:active, header .navbar a:visited, header
   }
   h1 {
     color: white;
-    font-family: $font;
     font-size: 80px !important;
     font-weight: 800;
   }
   .btn {
-    font-family: $font !important;
     font-weight: 700;
   }
   p {
@@ -120,17 +110,12 @@ header .navbar a:link, header .navbar a:active, header .navbar a:visited, header
 }
 .features {
   background: $purple;
-  background: -moz-linear-gradient(top, $purple 20%, #7C75D4 50%, $orange 100%);
-  background: -webkit-linear-gradient(top, $purple 20%, #7C75D4 50%,$orange 100%);
   background: linear-gradient(to bottom, $purple 20%, #7C75D4 50%,$orange 100%);
   background-color: $purple;
   color: white;
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=$purple, endColorstr=$orange,GradientType=0 );
-  font: $font;
   padding: 100px 0px;
   h2 {
     color: white;
-    font-family: $font;
     font-size: 40px !important;
     font-weight: 800;
   }
@@ -155,7 +140,6 @@ header .navbar a:link, header .navbar a:active, header .navbar a:visited, header
   }
 }
 .create, .moreFeatures {
-  font: $font;
   padding: 100px 0px;
   p {
     padding: 20px 60px;
@@ -165,7 +149,6 @@ header .navbar a:link, header .navbar a:active, header .navbar a:visited, header
   }
   h2 {
     color: $purple;
-    font-family: $font;
     font-size: 40px !important;
     font-weight: 800;
   }
@@ -187,7 +170,6 @@ header .navbar a:link, header .navbar a:active, header .navbar a:visited, header
   margin: 0px 10px;
 }
 .users {
-  font: $font;
   padding: 100px 0px;
   p {
     color: $gray;
@@ -195,7 +177,6 @@ header .navbar a:link, header .navbar a:active, header .navbar a:visited, header
   background-color: $gray-100;
   h2 {
     color: $purple;
-    font-family: $font;
     font-size: 40px !important;
     font-weight: 800;
   }
@@ -234,24 +215,14 @@ header .navbar a:link, header .navbar a:active, header .navbar a:visited, header
     margin-bottom: 30px;
   }
   img {
-    -moz-transform: scale(1);
-    -ms-transform: scale(1);
-    -o-transform: scale(1);
-    -webkit-transform: scale(1);
     transform: scale(1);
     transition-duration: .32s;
     animation-fill-mode: forwards;
-    -webkit-animation-fill-mode: forwards;
   }
   img:hover {
-    -moz-transform: scale(1.03);
-    -ms-transform: scale(1.03);
-    -o-transform: scale(1.03);
-    -webkit-transform: scale(1.03);
     transform: scale(1.03);
     transition-duration: .32s;
     animation-fill-mode: forwards;
-    -webkit-animation-fill-mode: forwards;
   }
 }
 .showcase img{
@@ -261,8 +232,6 @@ header .navbar a:link, header .navbar a:active, header .navbar a:visited, header
 // Default Page
 #defaultHeader {
   background: $violet;
-  background: -moz-linear-gradient(left, $violet 0%, $violet2 50%, $violet2 50%, $orange 100%);
-  background: -webkit-linear-gradient(left, $violet 0%, $violet2 50%, $violet2 50%, $orange 100%);
   background: linear-gradient(to right, $violet 0%, $violet2 50%, $violet2 50%, $orange 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=$violet, endColorstr=$orange, GradientType=1);
 }
@@ -277,14 +246,12 @@ header .navbar a:link, header .navbar a:active, header .navbar a:visited, header
 
 // Footer
 footer {
-  font-family: $font;
   color: white;
   background-color: $purple !important;
   padding: 80px 0px;
   flex: 1;
   h4 {
     color: white;
-    font: $font;
   }
   ul{
       list-style: none;
@@ -299,11 +266,6 @@ footer {
     text-decoration: none;
     margin: 0;
   }
-}
-
-// 404
-#errorPage {
-  margin: 300px 0;
 }
 
 [data-toggle="collapse"].collapsed .if-not-collapsed {
