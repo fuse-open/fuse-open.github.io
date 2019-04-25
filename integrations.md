@@ -3,6 +3,9 @@ layout: page
 title: Integrations
 permalink: /integrations/
 packages:
+- title: Biometric authentication
+  description: Library FuseOpen for Biometric Authentication on iOS and Android
+  url: https://github.com/ichan-mb/Fuse.Biometric
 - title: Lottie animations
   description: integration of Lottie animations on Fuse
   url: https://github.com/rbtech/fuse-lottie
