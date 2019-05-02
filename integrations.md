@@ -3,6 +3,9 @@ layout: page
 title: Integrations
 permalink: /integrations/
 packages:
+- title: Fuse audio recording
+  description: Fuse audio recording for Android.
+  url: https://github.com/ckarmy/Fuse-audio-recording
 - title: Biometric authentication
   description: Library FuseOpen for Biometric Authentication on iOS and Android
   url: https://github.com/ichan-mb/Fuse.Biometric
