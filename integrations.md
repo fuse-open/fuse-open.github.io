@@ -70,11 +70,14 @@ packages:
   description: A collection of smaller examples using the various features of Fuse.
   url: https://github.com/fusetools/fuse-samples
 - title: Gallery
-  description: Load images from the phone&#39;s gallery by <strong>bolav</strong>
+  description: Load images from the phone's gallery by <strong>bolav</strong>
   url: https://github.com/bolav/fuse-gallery
 - title: Google analytics
   description: Use Google Analytics with Fuse by <strong>ErickTamayo</strong>
   url: https://github.com/ErickTamayo/fuse-google-analytics
+- title: Google Places Autocomplete
+  description: The Place Autocomplete service is a web service that returns place predictions in response to an HTTP request.
+  url: https://github.com/princefr/Fuse.PlaceAutocomplete
 - title: Haxe
   description: Haxe compiler for Fuse tools.
   url: https://github.com/elsassph/fusetools-haxe
@@ -109,7 +112,7 @@ packages:
   description: integration of Lottie animations on Fuse
   url: https://github.com/rbtech/fuse-lottie
 - title: Material Design
-  description: Cross-platform, open source implementation of Google&#39;s material design in Fuse by <strong>Duckers</strong>
+  description: Cross-platform, open source implementation of Google's material design in Fuse by <strong>Duckers</strong>
   url: https://github.com/Duckers/Fuse.MaterialDesign
 - title: Motion
   description: iOS accelerometer, gyroscope, magnetometer readings and more for Fuse.
