@@ -23,12 +23,16 @@ preview-video: HyTHpMTi5MQ
 A few simple examples of how to create animations in response to user input with triggers and animators.
 
 <div class="row">
-    <div class="col-xs-6">
-        [VIDEO media/anchored-preview.mp4]
+  <div class="col-xs-6">
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6Ft2KEyzSGM?mute=1&loop=1&rel=0&controls=0&showinfo=0&autohide=1" frameborder="0" allow="autoplay"></iframe>
     </div>
-    <div class="col-xs-6">
-        [VIDEO media/click-events-preview.mp4]
+  </div>
+  <div class="col-xs-6">
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MSoauRa99XU?mute=1&loop=1&rel=0&controls=0&showinfo=0&autohide=1" frameborder="0" allow="autoplay"></iframe>
     </div>
+  </div>
 </div>
 
 ## Staggered animation
@@ -57,7 +61,9 @@ By setting a `Target` for each of the two animators we can move separate objects
 
 <!-- snippet-end -->
 
-[VIDEO media/preview.mp4]
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/HyTHpMTi5MQ?mute=1&loop=1&rel=0&controls=0&showinfo=0&autohide=1" frameborder="0" allow="autoplay"></iframe>
+</div>
 
 ## Anchored animation
 
@@ -81,7 +87,9 @@ Also notice how we're explcitily setting the color of the rectangle here with `<
 
 <!-- snippet-end -->
 
-[VIDEO media/anchored-preview.mp4]
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6Ft2KEyzSGM?mute=1&loop=1&rel=0&controls=0&showinfo=0&autohide=1" frameborder="0" allow="autoplay"></iframe>
+</div>
 
 In the UX above we simply used the `TopLeft` shorthand to move the center of rotation but the real power of this mechanism becomes apparent when you combine it with [Offset and Anchor][Offset and Anchor].
 
@@ -102,7 +110,9 @@ The following UX shows how TransformOrigin can be set to any position, even outs
 </Panel>
 ```
 
-[VIDEO media/anchored-2-preview.mp4]
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZTeqv6uzf_c?mute=1&loop=1&rel=0&controls=0&showinfo=0&autohide=1" frameborder="0" allow="autoplay"></iframe>
+</div>
 
 ## Click events
 
@@ -137,6 +147,8 @@ The morphing effect on the circle is achieved simply by animating the corner rad
 
 <!-- snippet-end -->
 
-[VIDEO media/click-events-preview.mp4]
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MSoauRa99XU?mute=1&loop=1&rel=0&controls=0&showinfo=0&autohide=1" frameborder="0" allow="autoplay"></iframe>
+</div>
 
 We've bundled these 3 examples together into a small app using a `PageControl` which you can download in the menu to the left.

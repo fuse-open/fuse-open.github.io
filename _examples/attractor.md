@@ -73,7 +73,9 @@ The code is simply:
 
 Let's create a more elaborate example by adding more items and delaying some of them:
 
-[VIDEO media/preview-delayed.mp4]
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OdVUsVf3zrY?mute=1&loop=1&rel=0&controls=0&showinfo=0&autohide=1" frameborder="0" allow="autoplay"></iframe>
+</div>
 
 This effect is achieved by simply adding more rectangles, more instances of `Attractor` and putting a `Delay` on the triggers, like this:
 
