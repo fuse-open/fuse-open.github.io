@@ -1,7 +1,7 @@
 function downloadExample(element, example) {
   var prefix = 'https://api.github.com/repos/fuse-open/examples/contents/'
-  var dir = 'examples/' + example + '/code/'
-  var url = prefix + dir + '?ref=98882751697248720484fe45a8f089aeb492d97e'
+  var dir = example + '/'
+  var url = prefix + dir + '?ref=master'
 
   function github_subdir(url) {
     return fetch(url).then(response => {
