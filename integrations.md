@@ -193,6 +193,9 @@ packages:
 - title: Youtube bindings
   description: YouTube integration by <strong>bolav</strong>
   url: https://github.com/bolav/fuse-youtube
+- title: Fuse-snackbar
+  description: Android Snackbar binding for Fusetools
+  url: https://github.com/devadiab/fuse-snackbar 
 plugins:
 - title: Alfred Workflow
   description: Integrate Fuse on Alfred.
