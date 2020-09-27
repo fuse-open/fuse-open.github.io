@@ -45,6 +45,14 @@ Fuselibs.
 
 # Download Fuse Studio
 
-You can download the latest installer from <a href="https://github.com/fuse-open/fuse-studio/releases" target="_blank">here</a>.
+You can download the latest installer from <a href="https://github.com/fuse-x/studio/releases" target="_blank">here</a>.
+
+For Fuse 1.10 and older releases, please see <a href="https://github.com/fuse-open/fuse-studio/releases" target="_blank">here</a>.
 
 For Fuse 1.8 and older releases, please see <a href="https://github.com/fusetools/fuse-releases/releases" target="_blank">here</a>.
+
+# Download Fuse SDK
+
+The Fuse SDK (including Uno and Fuselibs) can be installed via <a href="https://www.npmjs.com/package/fuse-sdk" target="_blank">NPM</a>.
+
+<pre>npm install -g fuse-sdk</pre>
