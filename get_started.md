@@ -53,6 +53,10 @@ For Fuse 1.8 and older releases, please see <a href="https://github.com/fusetool
 
 # Download Fuse SDK
 
-The Fuse SDK (including Uno and Fuselibs) can be installed via <a href="https://www.npmjs.com/package/fuse-sdk" target="_blank">NPM</a>.
+The latest Fuse SDK can be installed via <a href="https://www.npmjs.com/package/fuse-sdk" target="_blank">NPM</a>.
 
-<pre>npm install -g fuse-sdk</pre>
+<pre>npm install fuse-sdk -g</pre>
+
+This will install <a href="https://github.com/fuse-open/uno" target="_blank"><code>uno</code></a> and <a href="https://github.com/fuse-open/fuselibs" target="_blank">a set of libraries</a> used to build Fuse apps.
+
+A quick introduction to using Fuse SDK can be found in <a href="https://medium.com/@mortendanielfornes/introducing-fuse-sdk-890180044c13" target="_blank">this blog post</a>.
