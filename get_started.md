@@ -29,19 +29,13 @@ These components are written to be as independent of each other as we've
 managed, and in general you can build the code in each repository
 independently and get useful restults. However, most users are probably
 going to want to work with all of these repositories checked out
-side-by-side, so they can modify any compoent and get the desired
+side-by-side, so they can modify any component and get the desired
 results.
-
-There's documentation for this spread a bit around the place. Fuselibs
-[documents how to coexist][5] with Fuse. Uno [documents how to coexist][6] with
-Fuselibs.
 
 [1]: https://github.com/fuse-open/uno
 [2]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [3]: https://github.com/fuse-open/fuselibs
 [4]: https://github.com/fuse-open/fuse-studio
-[5]: https://github.com/fuse-open/fuselibs/blob/master/README.md#fuse
-[6]: https://github.com/fuse-open/uno/blob/master/docs/configuration.md#standard-library
 
 # Download Fuse Studio
 
