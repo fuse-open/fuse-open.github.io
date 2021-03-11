@@ -1,6 +1,6 @@
 ---
 layout: example
-title: Pages using Javascript
+title: Pages using JavaScript
 synopsis: A list of buttons navigating to and from pages
 date: 2015-06-09 00:00:00
 tags:

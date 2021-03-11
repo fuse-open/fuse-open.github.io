@@ -33,7 +33,7 @@ You can check out [the documentation](/docs/fuse/triggers/timeline) for a full l
 
 That's it for changes to the `WatchFace` class. Next comes a few changes to MainView. First, we remove our custom `Stowatch` element, as it isn't used any more. Then, we give our `WatchFace` a name. This is required for us to access its functions from JavaScript.
 
-# Javascript implementation of the stopwatch
+# JavaScript implementation of the stopwatch
 
 To simplify the implementation , the JavaScript stopwatch implementation consists of a few functions that are made to accurately replace the Uno stopwatch, so most of the old code can be used:
 
