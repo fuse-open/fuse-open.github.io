@@ -2,7 +2,7 @@
   title: Living, dynamic UI
   description: With UX markup, motion is a first-class citizen and nearly every property is animatable. Using simple expressions you can quickly transition from a static layout into wiring its properties together to form intricate responsive animations.
 - icon: fab fa-js
-  title: Modern Javascript
+  title: Modern JavaScript
   description: In Fuse, client-side business logic is written in simple JavaScript. With Apple JavaScriptCore or Google V8 on a separate thread, script execution rarely impacts UI performance. If you’re familiar with the words module.exports you’re pretty much good to go.
 - icon: fas fa-fighter-jet
   title: High performance production code

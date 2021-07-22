@@ -198,8 +198,10 @@ packages:
   url: https://github.com/bolav/fuse-youtube
 - title: Fuse-snackbar
   description: Android Snackbar binding for Fusetools
-  url: https://github.com/devadiab/fuse-snackbar 
-plugins:
+  url: https://github.com/devadiab/fuse-snackbar
+- title: Background Downloader
+  description: (iOS, Android) Simple library download files in a way that allows the download to progress even when the app is in the background.
+  url: https://github.com/Anagrr/Fuse.BackgroundDownload
 - title: Alfred Workflow
   description: Integrate Fuse on Alfred.
   url: https://github.com/Hazealign/fuse-alfred-workflow

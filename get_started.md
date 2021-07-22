@@ -29,22 +29,28 @@ These components are written to be as independent of each other as we've
 managed, and in general you can build the code in each repository
 independently and get useful restults. However, most users are probably
 going to want to work with all of these repositories checked out
-side-by-side, so they can modify any compoent and get the desired
+side-by-side, so they can modify any component and get the desired
 results.
-
-There's documentation for this spread a bit around the place. Fuselibs
-[documents how to coexist][5] with Fuse. Uno [documents how to coexist][6] with
-Fuselibs.
 
 [1]: https://github.com/fuse-open/uno
 [2]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [3]: https://github.com/fuse-open/fuselibs
 [4]: https://github.com/fuse-open/fuse-studio
-[5]: https://github.com/fuse-open/fuselibs/blob/master/README.md#fuse
-[6]: https://github.com/fuse-open/uno/blob/master/docs/configuration.md#standard-library
 
 # Download Fuse Studio
 
-You can download the latest installer from <a href="https://github.com/fuse-open/fuse-studio/releases" target="_blank">here</a>.
+You can download the latest installer from <a href="https://github.com/fuse-x/studio/releases" target="_blank">here</a>.
+
+For Fuse 1.10 and older releases, please see <a href="https://github.com/fuse-open/fuse-studio/releases" target="_blank">here</a>.
 
 For Fuse 1.8 and older releases, please see <a href="https://github.com/fusetools/fuse-releases/releases" target="_blank">here</a>.
+
+# Download Fuse SDK
+
+The latest Fuse SDK can be installed via <a href="https://www.npmjs.com/package/fuse-sdk" target="_blank">NPM</a>.
+
+<pre>npm install fuse-sdk -g</pre>
+
+This will install <a href="https://github.com/fuse-open/uno" target="_blank"><code>uno</code></a> and <a href="https://github.com/fuse-open/fuselibs" target="_blank">a set of libraries</a> used to build Fuse apps.
+
+A quick introduction to using Fuse SDK can be found in <a href="https://medium.com/@mortendanielfornes/introducing-fuse-sdk-890180044c13" target="_blank">this blog post</a>.

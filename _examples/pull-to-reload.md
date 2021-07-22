@@ -180,7 +180,7 @@ The last thing we do is to add our custom pull to reload component to our app:
 <!-- snippet-end -->
 
 We also have a few lines of JavaScript to simulate the loading state:
-<!-- snippet-begin:code/MainView.ux:Javascript -->
+<!-- snippet-begin:code/MainView.ux:JavaScript -->
 
 ```
 <JavaScript>
