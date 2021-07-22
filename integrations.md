@@ -127,7 +127,7 @@ packages:
   description: QR code reader by <strong>zean00</strong>
   url: https://github.com/zean00/fuse-qreader
 - title: Qrcode Generator by <strong>Anagrr</strong>
-  description: Generate QR Code inside your Fuse App
+  description: Generate QR Code inside your Fuse Project
   url: https://github.com/Anagrr/Fuse.QrcodeGenerator
 - title: Review app
   description: Get reviews from your users without making them leave the app.
