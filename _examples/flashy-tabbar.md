@@ -12,6 +12,7 @@ uxConcepts:
 - Circle
 - Panels
 preview-image: flashy-tabbar.png
+preview-video: Z6kRYLp-B-I
 ---
 This time we've implemented an awesome [flashy tabbar concept](https://dribbble.com/shots/5660844-Flashy-Tab-Bar-Open-Source) by [Cuberto](https://dribbble.com/cuberto).
 
@@ -140,10 +141,7 @@ set `HitTestMode="LocalBoundsAndChildren"` to make the whole tab clickabel. Fina
 that it will looks good) by setting the property `AllowedScrollDirections="Vertical"`.
 
 ```xml
-<ScrollView ux:Name="scroll"
-			UserScroll="false"
-			AllowedScrollDirections="Vertical">
-
+<ScrollView ux:Name="scroll" UserScroll="false"	AllowedScrollDirections="Vertical">
 	<StackPanel ux:Name="tab" HitTestMode="LocalBoundsAndChildren">
 		<!-- tab body -->
 		<Clicked>
@@ -174,15 +172,9 @@ for the title text, and bind to related attributes by `{ReadProperty this.XXX}` 
 	<string ux:Property="IconFilePath"/>
 	<string ux:Property="Title"/>
 
-	<ScrollView ux:Name="scroll"
-				UserScroll="false"
-				AllowedScrollDirections="Vertical">
-
+	<ScrollView ux:Name="scroll" UserScroll="false"	AllowedScrollDirections="Vertical">
 		<StackPanel ItemSpacing="10" Alignment="Top" Width="100%" HitTestMode="LocalBoundsAndChildren">
-			<Image ux:Name="icon"
-					File="{ReadProperty this.IconFilePath}"
-					Alignment="Center"
-					Size="24"/>
+			<Image ux:Name="icon" File="{ReadProperty this.IconFilePath}" Alignment="Center" Size="24"/>
 			<StackPanel Alignment="Center" ItemSpacing="5" Height="50">
 				<Text Value="{ReadProperty this.Title}" Color="{Resource AccentColor}"/>
 				<Circle ux:Name="dot" Size="0" Color="{Resource AccentColor}" Anchor="50%,50%"/>
@@ -275,14 +267,8 @@ feels more naturally set property `GotoEasing="CubicInOut"`.
 
 ```xml
 	<!-- rest -->
-<ScrollView ux:Name="scroll"
-			UserScroll="false"
-			AllowedScrollDirections="Vertical">
-
-	<ScrollViewMotion GotoType="SmoothSnap"
-					SnapDuration="0"
-					GotoDuration="0.3"
-					GotoEasing="CubicInOut"/>
+<ScrollView ux:Name="scroll" UserScroll="false" AllowedScrollDirections="Vertical">
+	<ScrollViewMotion GotoType="SmoothSnap" SnapDuration="0" GotoDuration="0.3" GotoEasing="CubicInOut"/>
 	<!-- rest -->	
 ```
 
@@ -313,10 +299,7 @@ water surface. This mean, circle have to have only a `Stroke` with the `Width="3
 ```xml
 	</ScrollView>
 
-	<Circle ux:Name="pulse"
-			Size="0"
-			Layer="Overlay"
-			Alignment="Center">
+	<Circle ux:Name="pulse" Size="0" Layer="Overlay" Alignment="Center">
 		<Stroke Width="3" Color="{Resource AccentColor}"/>
 	</Circle>
 </Paanel>
@@ -342,16 +325,8 @@ set to `Panel`'s `Height` value equal to `50`. Set `ux:Name="circle"` to overlap
 ```xml
 <StackPanel ItemSpacing="10" Alignment="Top" Width="100%" HitTestMode="LocalBoundsAndChildren">
 	<Panel Height="50">
-		<Image ux:Name="icon"
-				File="{ReadProperty this.IconFilePath}"
-				Alignment="Center"
-				Size="24">
-			<Circle ux:Name="circle"
-					Size="0"
-					Color="{Resource BarBgColor}"
-					Layer="Overlay"
-					Alignment="BottomLeft"
-					Offset="-5,5"/>
+		<Image ux:Name="icon" File="{ReadProperty this.IconFilePath}" Alignment="Center" Size="24">
+			<Circle ux:Name="circle" Size="0" Color="{Resource BarBgColor}" Layer="Overlay" Alignment="BottomLeft" Offset="-5,5"/>
 		</Image>
 	</Panel>
 	<!-- rest -->
@@ -389,27 +364,14 @@ That's it. Hope you enjoyed this journey!
 			<ScrollTo Target="scroll" RelativePosition="0" />
 		</WhileSelected>
 
-		<ScrollView ux:Name="scroll"
-					UserScroll="false"
-					AllowedScrollDirections="Vertical">
+		<ScrollView ux:Name="scroll" UserScroll="false"	AllowedScrollDirections="Vertical">
 
-			<ScrollViewMotion GotoType="SmoothSnap"
-							SnapDuration="0"
-							GotoDuration="0.3"
-							GotoEasing="CubicInOut"/>	
+			<ScrollViewMotion GotoType="SmoothSnap"	SnapDuration="0" GotoDuration="0.3"	GotoEasing="CubicInOut"/>	
 
 			<StackPanel ItemSpacing="10" Alignment="Top" Width="100%" HitTestMode="LocalBoundsAndChildren">
 				<Panel Height="50">
-					<Image ux:Name="icon"
-							File="{ReadProperty this.IconFilePath}"
-							Alignment="Center"
-							Size="24">
-						<Circle ux:Name="circle"
-								Size="0"
-								Color="{Resource BarBgColor}"
-								Layer="Overlay"
-								Alignment="BottomLeft"
-								Offset="-5,5"/>
+					<Image ux:Name="icon" File="{ReadProperty this.IconFilePath}" Alignment="Center" Size="24">
+						<Circle ux:Name="circle" Size="0" Color="{Resource BarBgColor}"	Layer="Overlay"	Alignment="BottomLeft" Offset="-5,5"/>
 					</Image>
 				</Panel>
 				<StackPanel Alignment="Center" ItemSpacing="5" Height="50">
@@ -423,10 +385,7 @@ That's it. Hope you enjoyed this journey!
 				</Clicked>
 			</StackPanel>
 		</ScrollView>
-		<Circle ux:Name="pulse"
-				Size="0"
-				Layer="Overlay"
-				Alignment="Center">
+		<Circle ux:Name="pulse"	Size="0" Layer="Overlay" Alignment="Center">
 			<Stroke Width="3" Color="{Resource AccentColor}"/>
 		</Circle>
 	</Panel>
