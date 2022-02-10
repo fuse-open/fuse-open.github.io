@@ -38,8 +38,8 @@ This example displays an indicator with a fancy look and feel. The fill inside h
 </Circle>
 ```
 
-The code above shows the whole mark-up of the indicators implementation. It consist of the black circle with green stroke. This outer circle contains the smaller circle
-that masked by the `png` image using `Mode="Alpha"`.
+The code above shows the whole mark-up of the indicators implementation. It consist of the black circle with green stroke.
+This outer circle contains the smaller circle that masked by the `png` image using `Mode="Alpha"`.
 
 The waves effect achived by spinning the rectangle with rounded corners. Glow effect is a simple shadow.
 
