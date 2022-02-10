@@ -17,7 +17,7 @@ preview-video: hYGzk-BcmdE
 ---
 This time we've implemented an awesome indicator.
 
-## The flashy tabbar
+## Description
 
 This example displays an indicator with a fancy look and feel. The fill inside has a "fluid" with nice waves effect.
 
