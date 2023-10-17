@@ -126,6 +126,9 @@ packages:
 - title: Qreader
   description: QR code reader by <strong>zean00</strong>
   url: https://github.com/zean00/fuse-qreader
+- title: Qrcode Generator by <strong>Anagrr</strong>
+  description: Generate QR Code inside your Fuse Project
+  url: https://github.com/Anagrr/Fuse.QrcodeGenerator
 - title: Review app
   description: Get reviews from your users without making them leave the app.
   url: https://github.com/LuisRodriguezLD/Fuse-RequestReview
@@ -199,7 +202,7 @@ packages:
 - title: Background Downloader
   description: (iOS, Android) Simple library download files in a way that allows the download to progress even when the app is in the background.
   url: https://github.com/Anagrr/Fuse.BackgroundDownload
-plugins:
+- Plugins
 - title: Alfred Workflow
   description: Integrate Fuse on Alfred.
   url: https://github.com/Hazealign/fuse-alfred-workflow
